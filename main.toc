@@ -1,7 +1,7 @@
 \select@language {bahasa}
 \contentsline {chapter}{Daftar Isi}{v}{section*.1}
-\contentsline {chapter}{Daftar Gambar}{vi}{section*.2}
-\contentsline {chapter}{Daftar Tabel}{vii}{section*.3}
+\contentsline {chapter}{Daftar Gambar}{vii}{section*.2}
+\contentsline {chapter}{Daftar Tabel}{viii}{section*.3}
 \contentsline {chapter}{\numberline {1}Pendahuluan}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Latar Belakang}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Rumusan Masalah}{1}{section.1.2}
@@ -12,20 +12,30 @@
 \contentsline {chapter}{\numberline {2}Dasar Teori}{3}{chapter.2}
 \contentsline {section}{\numberline {2.1}\textit {Mobile Cloud Computing}}{3}{section.2.1}
 \contentsline {section}{\numberline {2.2}Android}{3}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}\textit {Architecture}}{3}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}\textit {Life Cycle}}{3}{subsection.2.2.2}
-\contentsline {section}{\numberline {2.3}Hadoop and \textit {Ecosystem}}{3}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Hadoop}{3}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}HDFS}{3}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}HBase}{3}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Trafodion}{3}{subsection.2.3.4}
-\contentsline {section}{\numberline {2.4}Webservice and RESTful}{3}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Webservice}{3}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}RESTful}{3}{subsection.2.4.2}
-\contentsline {section}{\numberline {2.5}Google Open Authentication (OAuth)}{3}{section.2.5}
-\contentsline {chapter}{\numberline {3}Introduction}{5}{chapter.3}
-\contentsline {section}{\numberline {3.1}Motivation}{5}{section.3.1}
-\contentsline {chapter}{\numberline {4}Introduction}{7}{chapter.4}
-\contentsline {section}{\numberline {4.1}Motivation}{7}{section.4.1}
-\contentsline {chapter}{Daftar Referensi}{9}{chapter*.4}
+\contentsline {subsection}{\numberline {2.2.1}Pengertian Android}{3}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Arsitektur Android}{3}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}\textit {Life Cycle}}{3}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}Phonegap}{3}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Pengertian Phonegap}{3}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Arsitektur Phonegap}{3}{subsection.2.3.2}
+\contentsline {section}{\numberline {2.4}Hadoop and \textit {Ecosystem}}{5}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Hadoop}{5}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}HDFS}{5}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}MapReduce}{5}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}HBase}{5}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}Trafodion}{5}{subsection.2.4.5}
+\contentsline {section}{\numberline {2.5}Webservice and RESTful}{7}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Webservice}{7}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}RESTful}{7}{subsection.2.5.2}
+\contentsline {section}{\numberline {2.6}Google Open Authentication (OAuth)}{7}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Open Authentication (OAuth)}{7}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Google \textit {OAuth}}{7}{subsection.2.6.2}
+\contentsline {chapter}{\numberline {3}Analisis}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Deskripsi Masalah}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}\textit {Cloud Computing Model} untuk kasus pembukuan}{9}{section.3.2}
+\contentsline {section}{\numberline {3.3}Analisis Kebutuhan Perangkat Lunak}{9}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Use Case}{9}{subsection.3.3.1}
+\contentsline {chapter}{\numberline {4}Introduction}{11}{chapter.4}
+\contentsline {section}{\numberline {4.1}Motivation}{11}{section.4.1}
+\contentsline {chapter}{Daftar Referensi}{13}{chapter*.4}
 \renewcommand {\cftchappresnum }{\bf \scshape }

@@ -1,3 +1,7 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{1}
+
+\bibitem{holmes2012hadoop}
+A.~Holmes, {\em Hadoop in practice}.
+\newblock Manning Publications Co., 2012.
 
 \end{thebibliography}
