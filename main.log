@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.13)  17 MAY 2015 14:06
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.13)  17 MAY 2015 14:20
 entering extended mode
 **main.tex
 (D:\kuliah\skripsi\dokumen\main.tex
@@ -784,30 +784,11 @@ Package pdftex.def Info: Gambar/google-oauth.png used on input line 171.
 ) [7 <D:/kuliah/skripsi/dokumen/Gambar/arsitektur-hdfs.png>] [8 <D:/kuliah/skripsi/dokumen/Gambar/google-oauth.png>] (D:
 \kuliah\skripsi\dokumen\Bab/bab3.tex
 Bab 3.
-! Too many }'s.
-l.26 \end{enumerate}}
-                     
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
 [9
 
 
 
-]
-! Too many }'s.
-l.38 \end{enumerate}}
-                     
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-! Too many }'s.
-l.52 \end{enumerate}}
-                     
-You've closed more groups than you opened.
-Such booboos are generally harmless, so keep going.
-
-) [10] (D:\kuliah\skripsi\dokumen\Bab/bab4.tex
+]) [10] (D:\kuliah\skripsi\dokumen\Bab/bab4.tex
 Bab 4.
 ) [11
 
@@ -848,7 +829,7 @@ ono\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:
 .9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\Surya Wono\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
 n\ec\dpi600\ecxc1095.pk> <C:\Users\Surya Wono\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk><C
 :/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (21 pages, 1889314 bytes).
+Output written on main.pdf (21 pages, 1889308 bytes).
 PDF statistics:
  864 PDF objects out of 1000 (max. 8388607)
  101 named destinations out of 1000 (max. 500000)
