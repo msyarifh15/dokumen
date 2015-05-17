@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.7.19)  17 MAY 2015 14:14
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.7.19)  17 MAY 2015 15:38
 entering extended mode
 **main.tex
 ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\main.tex"
@@ -580,8 +580,14 @@ LaTeX Info: Redefining \] on input line 2667.
 \@input{dosen.aux}
 ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\dosen.tex") ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\main.aux"
 ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab1.aux")
-("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab2.aux")
-("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab3.aux")
+("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab2.aux"
+
+LaTeX Warning: Label `fig:iaas-infrastruktur' multiply defined.
+
+
+LaTeX Warning: Label `fig:iaas-infrastruktur' multiply defined.
+
+) ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab3.aux")
 ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab4.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 305.
 LaTeX Font Info:    ... okay on input line 305.
@@ -679,7 +685,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<Gambar/logo-unpar.png, id=179, 360.59718pt x 356.0803pt>
+<Gambar/logo-unpar.png, id=191, 360.59718pt x 356.0803pt>
 File: Gambar/logo-unpar.png Graphic file (type png)
  <use Gambar/logo-unpar.png>
 Package pdftex.def Info: Gambar/logo-unpar.png used on input line 473.
@@ -769,48 +775,74 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 ) [2]
 ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab2.tex"
 Bab 2.
-<Gambar/Android-system-architecture.jpg, id=294, 843.15pt x 625.6173pt>
-File: Gambar/Android-system-architecture.jpg Graphic file (type jpg)
- <use Gambar/Android-system-architecture.jpg>
-Package pdftex.def Info: Gambar/Android-system-architecture.jpg used on input line 35.
-(pdftex.def)             Requested size: 843.14793pt x 625.61575pt.
+<Gambar/iaas-infrastruktur.png, id=313, 332.74312pt x 169.38281pt>
+File: Gambar/iaas-infrastruktur.png Graphic file (type png)
+ <use Gambar/iaas-infrastruktur.png>
+Package pdftex.def Info: Gambar/iaas-infrastruktur.png used on input line 30.
+(pdftex.def)             Requested size: 332.7423pt x 169.38239pt.
 
-<Gambar/basic-lifecycle.png, id=296, 664.4825pt x 296.10625pt>
-File: Gambar/basic-lifecycle.png Graphic file (type png)
- <use Gambar/basic-lifecycle.png>
-Package pdftex.def Info: Gambar/basic-lifecycle.png used on input line 49.
-(pdftex.def)             Requested size: 664.48087pt x 296.10551pt.
+Overfull \hbox (0.47205pt too wide) in paragraph at lines 26--34
+\T1/cmr/m/n/10.95 merupakan la-yan-an \T1/cmr/m/it/10.95 Clo-ud Com-pu-ting \T1/cmr/m/n/10.95 yang me-nye-di-ak-an in-fr
+as-truk-tur IT ber-u-pa CPU,
+ []
+
+<Gambar/paas-infrastruktur.png, id=314, 310.91156pt x 160.34906pt>
+File: Gambar/paas-infrastruktur.png Graphic file (type png)
+ <use Gambar/paas-infrastruktur.png>
+Package pdftex.def Info: Gambar/paas-infrastruktur.png used on input line 38.
+(pdftex.def)             Requested size: 310.91078pt x 160.34866pt.
  [3
 
 
 
-] [4 <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/Android-system-architecture.jpg> <C:/Users/Yohan Sugiyo/Docu
-ments/GitHub/dokumen/Gambar/basic-lifecycle.png>] <Gambar/phonegap-architecture.png, id=323, 452.4403pt x 277.78781pt>
-File: Gambar/phonegap-architecture.png Graphic file (type png)
+ <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/iaas-infrastruktur.png>]
+<Gambar/saas-infrastruktur.png, id=323, 307.1475pt x 166.37157pt>
+File: Gambar/saas-infrastruktur.png Graphic file (type png)
+ <use Gambar/saas-infrastruktur.png>
+Package pdftex.def Info: Gambar/saas-infrastruktur.png used on input line 46.
+(pdftex.def)             Requested size: 307.14674pt x 166.37114pt.
+ [4 <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/paas-infrastruktur.png> <C:/Users/Yohan Sugiyo/Documents/GitH
+ub/dokumen/Gambar/saas-infrastruktur.png>] <Gambar/Android-system-architecture.jpg, id=332, 843.15pt x 625.6173pt>
+File: Gambar/Android-system-architecture.jpg Graphic file (type jpg)
 
-<use Gambar/phonegap-architecture.png>
-Package pdftex.def Info: Gambar/phonegap-architecture.png used on input line 71.
+<use Gambar/Android-system-architecture.jpg>
+Package pdftex.def Info: Gambar/Android-system-architecture.jpg used on input line 80.
+(pdftex.def)             Requested size: 843.14793pt x 625.61575pt.
+ <Gambar/basic-lifecycle.png, id=334, 664.4825pt x 296.10625pt>
+File: Gambar/basic-lifecycle.png Graphic file (type png)
+
+<use Gambar/basic-lifecycle.png>
+Package pdftex.def Info: Gambar/basic-lifecycle.png used on input line 94.
+(pdftex.def)             Requested size: 664.48087pt x 296.10551pt.
+ [5 <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/Android-system-architecture.jpg>] <Gambar/phonegap-architectu
+re.png, id=353, 452.4403pt x 277.78781pt>
+File: Gambar/phonegap-architecture.png Graphic file (type png)
+ <use Gambar/phonegap-architecture.png>
+Package pdftex.def Info: Gambar/phonegap-architecture.png used on input line 116.
 (pdftex.def)             Requested size: 452.43921pt x 277.78711pt.
- <Gambar/high-level-hadoop-architecture.png, id=329, 483.30562pt x 275.52937pt>
+
+<Gambar/high-level-hadoop-architecture.png, id=359, 483.30562pt x 275.52937pt>
 File: Gambar/high-level-hadoop-architecture.png Graphic file (type png)
 
 <use Gambar/high-level-hadoop-architecture.png>
-Package pdftex.def Info: Gambar/high-level-hadoop-architecture.png used on input line 103.
+Package pdftex.def Info: Gambar/high-level-hadoop-architecture.png used on input line 148.
 (pdftex.def)             Requested size: 483.30444pt x 275.52869pt.
- [5 <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/phonegap-architecture.png>] <Gambar/arsitektur-hdfs.png, id=3
-40, 508.90125pt x 379.4175pt>
+ <Gambar/arsitektur-hdfs.png, id=361, 508.90125pt x 379.4175pt>
 File: Gambar/arsitektur-hdfs.png Graphic file (type png)
- <use Gambar/arsitektur-hdfs.png>
-Package pdftex.def Info: Gambar/arsitektur-hdfs.png used on input line 117.
+
+<use Gambar/arsitektur-hdfs.png>
+Package pdftex.def Info: Gambar/arsitektur-hdfs.png used on input line 162.
 (pdftex.def)             Requested size: 508.90001pt x 379.41656pt.
- [6 <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/high-level-hadoop-architecture.png>]
-<Gambar/google-oauth.png, id=352, 713.66624pt x 511.9125pt>
+ [6 <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/basic-lifecycle.png>]
+[7 <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/phonegap-architecture.png> <C:/Users/Yohan Sugiyo/Documents/Gi
+tHub/dokumen/Gambar/high-level-hadoop-architecture.png>] [8 <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/arsit
+ektur-hdfs.png>] <Gambar/google-oauth.png, id=388, 713.66624pt x 511.9125pt>
 File: Gambar/google-oauth.png Graphic file (type png)
  <use Gambar/google-oauth.png>
-Package pdftex.def Info: Gambar/google-oauth.png used on input line 173.
+Package pdftex.def Info: Gambar/google-oauth.png used on input line 218.
 (pdftex.def)             Requested size: 713.66449pt x 511.91125pt.
-) [7 <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/arsitektur-hdfs.png>] [8 <C:/Users/Yohan Sugiyo/Documents/Gi
-tHub/dokumen/Gambar/google-oauth.png>] ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab3.tex"
+ [9 <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/google-oauth.png>]) [10]
+("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab3.tex"
 Bab 3.
 ! Too many }'s.
 l.26 \end{enumerate}}
@@ -818,11 +850,7 @@ l.26 \end{enumerate}}
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
-
-Package lineno Warning: Linenumber reference failed, 
-(lineno)                rerun to get it right.
-
-[9
+[11
 
 
 
@@ -833,24 +861,28 @@ l.38 \end{enumerate}}
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
+
+Package lineno Warning: Linenumber reference failed, 
+(lineno)                rerun to get it right.
+
 ! Too many }'s.
 l.52 \end{enumerate}}
                      
 You've closed more groups than you opened.
 Such booboos are generally harmless, so keep going.
 
-) [10] ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab4.tex"
+) [12] ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab4.tex"
 Bab 4.
-) [11
+) [13
 
 
 
-] ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\main.bbl" [12
+] ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\main.bbl" [14
 
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 513.
- [13]
+ [15]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 513.
 
 ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\main.aux" ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab1.aux
@@ -859,17 +891,27 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 513.
 ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab4.aux"))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 513.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 513.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 47C9C2870B6DA2BC8C9D7A762E46C55D;6008.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: CC4DC82493B9189A64B4B4B380B6A9BC;6575
+(rerunfilecheck)             After:  FE84C2A7A86EFEB26D61993F5A5A559A;6764.
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 11791 strings out of 494045
- 163731 string characters out of 3145948
- 374638 words of memory out of 3000000
- 14744 multiletter control sequences out of 15000+200000
+ 11829 strings out of 494045
+ 164550 string characters out of 3145948
+ 375025 words of memory out of 3000000
+ 14770 multiletter control sequences out of 15000+200000
  21696 words of font info for 49 fonts, out of 3000000 for 9000
  719 hyphenation exceptions out of 8191
- 45i,11n,46p,814b,452s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,11n,53p,814b,456s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbi1200.pfb><C:/Progr
 am Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbi1440.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
@@ -881,9 +923,9 @@ C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/P
 1/public/cm-super/sfss0600.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfti1000.pfb><C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfti1095.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-
 super/sfxc1095.pfb>
-Output written on main.pdf (21 pages, 1981449 bytes).
+Output written on main.pdf (23 pages, 2045469 bytes).
 PDF statistics:
- 470 PDF objects out of 1000 (max. 8388607)
- 101 named destinations out of 1000 (max. 500000)
- 388 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 509 PDF objects out of 1000 (max. 8388607)
+ 110 named destinations out of 1000 (max. 500000)
+ 427 words of extra memory for PDF output out of 10000 (max. 10000000)
 
