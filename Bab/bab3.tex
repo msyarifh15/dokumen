@@ -4,7 +4,7 @@
 \section{Deskripsi Masalah}
 \label{sec:deskripsimasalah}
 
-Pada penilitian ini, akan dibuat suatu aplikasi yang dapat membantu suatu rumah tangga dalam pengelolaan keuangan mereka. Aplikasi ini dapat digunakan oleh setiap anggota rumah tangga untuk mencatat semua transaksi yang mereka lakukan baik pengeluaran maupun pendapatan. Aplikasi ini juga dapat menampilkan laporan sesuai dengan transaksi yang telah tercatat.
+\hspace{0,5cm}Pada penilitian ini, akan dibuat suatu aplikasi yang dapat membantu suatu rumah tangga dalam pengelolaan keuangan mereka. Aplikasi ini dapat digunakan oleh setiap anggota rumah tangga untuk mencatat semua transaksi yang mereka lakukan baik pengeluaran maupun pendapatan. Aplikasi ini juga dapat menampilkan laporan sesuai dengan transaksi yang telah tercatat.
 
 Aplikasi ini sendiri terbagi menjadi dua bagian yaitu aplikasi \textit{end-user} yang digunakan langsung oleh para anggota rumah tangga dan aplikasi yang digunakan oleh admin untuk mengelolah data-data aplikasi.
 
@@ -14,8 +14,41 @@ Data-data yang tercatat tentunya akan disimpan kedalam sebuah basis data sehingg
 
 \section{Analisis Kebutuhan Perangkat Lunak}
 
-Pada sub-bab ini akan dibahas fitur-fitur yang disediakan aplikasi dan \textit{server}.
+\hspace{0,5cm}Pada sub-bab ini akan dibahas fitur-fitur yang disediakan aplikasi dan \textit{server}.
 
 \subsection{Fitur Pada Aplikasi \textit{Mobile Device}}
+
+\hspace{0,5cm}Pada aplikasi ini, terdapat beberapa peran, yaitu:
+\begin{enumerate}
+	\item Kepala rumah tangga
+	\item	Pengurus rumah tangga
+	\item Anggota rumah tangga
+\end{enumerate}}
+
+Fitur-fitur yang ada, yakni:
+\begin{enumerate}
+	\item Pendaftaran diri, pendaftaran dilakukan untuk mendapatkan hak akses kedalam sistem aplikasi dan pendaftaran mendapat peran sebagai kepala rumah tangga
+	\item Pengisian profil rumah tangga, pengisian profil dilakukan oleh kepala rumah tangga setelah mendaftarkan diri dan disetujui oleh admin
+	\item	Mendaftarkan pengurus dan anggota rumah tangga, kepala rumah tangga dapat menambahkan dan mengurungai pengurus dan anggota rumah tangga yang berelasi terhadapnya
+	\item Mencatat transaksi, semua peran mendapat hak akses untuk fitur ini dimana fitur ini untuk mencatat transaksi keuangan masing-masing.
+	\item Alokasi keuangan, fitur ini berupa transfer dana antar anggota rumah tangga, baik dari kepala ke anggota dan sebaliknya, fitur ini hanya dimiliki oleh kepala dan pengurus rumah tangga.
+	\item Menambah kategori transaksi, fitur ini hanya dimiliki oleh kepala rumah tangga yang bertujuan untuk menambah kategori transaksi.
+	\item Melihat laporan keuangan, fitur ini hanya dapat diakses oleh kepala dan penguru rumah tangga.
+	\item Melihat transaksi, fitur ini dapat diakses oleh semua peran rumah tangga.
+\end{enumerate}}
+
 \subsection{Fitur Pada Aplikasi \textit{Website}}
+
+\hspace{0,5cm}Aplikasi \textit{website} ini dibuat hanya untuk admin sehingga dapat mengatur data-data yang ada pada aplikasi.
+
+Fitur-fitur yang ada yakni:
+\begin{enumerate}
+	\item Pengolahan anggota
+				Admin dapat menyetujui atau menolak pendaftaran dari pengguna
+	\item	Pengolahan kategori transaksi
+				Admin dapat mengurangi atau menambah kategori transaksi
+	\item Pelaporan
+				Admin dapat membuat laporan secara keseluruhan
+\end{enumerate}}
+
 \subsection{Fitur Pada \textit{Server}}

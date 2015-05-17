@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.7.19)  17 MAY 2015 14:08
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.7.19)  17 MAY 2015 14:14
 entering extended mode
 **main.tex
 ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\main.tex"
@@ -812,21 +812,40 @@ Package pdftex.def Info: Gambar/google-oauth.png used on input line 173.
 ) [7 <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/arsitektur-hdfs.png>] [8 <C:/Users/Yohan Sugiyo/Documents/Gi
 tHub/dokumen/Gambar/google-oauth.png>] ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab3.tex"
 Bab 3.
-) [9
+! Too many }'s.
+l.26 \end{enumerate}}
+                     
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
 
-
-
-] ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab4.tex" [10
-
-
-
-]
-Bab 4.
 
 Package lineno Warning: Linenumber reference failed, 
 (lineno)                rerun to get it right.
 
-) [11] ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\main.bbl" [12
+[9
+
+
+
+]
+! Too many }'s.
+l.38 \end{enumerate}}
+                     
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+! Too many }'s.
+l.52 \end{enumerate}}
+                     
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+) [10] ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab4.tex"
+Bab 4.
+) [11
+
+
+
+] ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\main.bbl" [12
 
 
 ])
@@ -844,9 +863,9 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 47C9C2870B6DA2BC8C9D7A762E46C55D;6008.
  ) 
 Here is how much of TeX's memory you used:
- 11777 strings out of 494045
- 163634 string characters out of 3145948
- 374634 words of memory out of 3000000
+ 11791 strings out of 494045
+ 163731 string characters out of 3145948
+ 374638 words of memory out of 3000000
  14744 multiletter control sequences out of 15000+200000
  21696 words of font info for 49 fonts, out of 3000000 for 9000
  719 hyphenation exceptions out of 8191
@@ -862,9 +881,9 @@ C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/P
 1/public/cm-super/sfss0600.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfti1000.pfb><C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfti1095.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-
 super/sfxc1095.pfb>
-Output written on main.pdf (21 pages, 1977782 bytes).
+Output written on main.pdf (21 pages, 1981449 bytes).
 PDF statistics:
- 454 PDF objects out of 1000 (max. 8388607)
- 87 named destinations out of 1000 (max. 500000)
+ 470 PDF objects out of 1000 (max. 8388607)
+ 101 named destinations out of 1000 (max. 500000)
  388 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -38,8 +38,8 @@
 \contentsline {section}{\numberline {3.2}\textit {Cloud Computing Model} untuk kasus pembukuan}{9}{section.3.2}
 \contentsline {section}{\numberline {3.3}Analisis Kebutuhan Perangkat Lunak}{9}{section.3.3}
 \contentsline {subsection}{\numberline {3.3.1}Fitur Pada Aplikasi \textit {Mobile Device}}{9}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Fitur Pada Aplikasi \textit {Website}}{9}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Fitur Pada \textit {Server}}{9}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.2}Fitur Pada Aplikasi \textit {Website}}{10}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Fitur Pada \textit {Server}}{10}{subsection.3.3.3}
 \contentsline {chapter}{\numberline {4}Introduction}{11}{chapter.4}
 \contentsline {section}{\numberline {4.1}Motivation}{11}{section.4.1}
 \contentsline {chapter}{Daftar Referensi}{13}{chapter*.4}
