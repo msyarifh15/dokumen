@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.13)  17 MAY 2015 14:47
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.13)  17 MAY 2015 21:06
 entering extended mode
 **main.tex
 (D:\kuliah\skripsi\dokumen\main.tex
@@ -657,7 +657,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<Gambar/logo-unpar.png, id=179, 360.59718pt x 356.0803pt>
+<Gambar/logo-unpar.png, id=183, 360.59718pt x 356.0803pt>
 File: Gambar/logo-unpar.png Graphic file (type png)
  <use Gambar/logo-unpar.png>
 Package pdftex.def Info: Gambar/logo-unpar.png used on input line 473.
@@ -739,13 +739,13 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 )
 [2] (D:\kuliah\skripsi\dokumen\Bab/bab2.tex
 Bab 2.
-<Gambar/Android-system-architecture.jpg, id=294, 843.15pt x 625.6173pt>
+<Gambar/Android-system-architecture.jpg, id=301, 843.15pt x 625.6173pt>
 File: Gambar/Android-system-architecture.jpg Graphic file (type jpg)
  <use Gambar/Android-system-architecture.jpg>
 Package pdftex.def Info: Gambar/Android-system-architecture.jpg used on input line 33.
 (pdftex.def)             Requested size: 843.14793pt x 625.61575pt.
 
-<Gambar/basic-lifecycle.png, id=296, 664.4825pt x 296.10625pt>
+<Gambar/basic-lifecycle.png, id=303, 664.4825pt x 296.10625pt>
 File: Gambar/basic-lifecycle.png Graphic file (type png)
  <use Gambar/basic-lifecycle.png>
 Package pdftex.def Info: Gambar/basic-lifecycle.png used on input line 47.
@@ -756,25 +756,25 @@ Package pdftex.def Info: Gambar/basic-lifecycle.png used on input line 47.
 
 ] [4 <D:/kuliah/skripsi/dokumen/Gambar/Android-system-architecture.jpg> <D:/kuliah/skripsi/dokumen/Gambar/basic-lifecycl
 e.png>]
-<Gambar/phonegap-architecture.png, id=323, 452.4403pt x 277.78781pt>
+<Gambar/phonegap-architecture.png, id=330, 452.4403pt x 277.78781pt>
 File: Gambar/phonegap-architecture.png Graphic file (type png)
  <use Gambar/phonegap-architecture.png>
 Package pdftex.def Info: Gambar/phonegap-architecture.png used on input line 69.
 (pdftex.def)             Requested size: 452.43921pt x 277.78711pt.
 
-<Gambar/high-level-hadoop-architecture.png, id=329, 483.30562pt x 275.52937pt>
+<Gambar/high-level-hadoop-architecture.png, id=336, 483.30562pt x 275.52937pt>
 File: Gambar/high-level-hadoop-architecture.png Graphic file (type png)
 
 <use Gambar/high-level-hadoop-architecture.png>
 Package pdftex.def Info: Gambar/high-level-hadoop-architecture.png used on input line 101.
 (pdftex.def)             Requested size: 483.30444pt x 275.52869pt.
  [5 <D:/kuliah/skripsi/dokumen/Gambar/phonegap-architecture.png>]
-<Gambar/arsitektur-hdfs.png, id=340, 508.90125pt x 379.4175pt>
+<Gambar/arsitektur-hdfs.png, id=347, 508.90125pt x 379.4175pt>
 File: Gambar/arsitektur-hdfs.png Graphic file (type png)
  <use Gambar/arsitektur-hdfs.png>
 Package pdftex.def Info: Gambar/arsitektur-hdfs.png used on input line 115.
 (pdftex.def)             Requested size: 508.90001pt x 379.41656pt.
- [6 <D:/kuliah/skripsi/dokumen/Gambar/high-level-hadoop-architecture.png>] <Gambar/google-oauth.png, id=352, 713.66624pt
+ [6 <D:/kuliah/skripsi/dokumen/Gambar/high-level-hadoop-architecture.png>] <Gambar/google-oauth.png, id=359, 713.66624pt
  x 511.9125pt>
 File: Gambar/google-oauth.png Graphic file (type png)
 
@@ -788,44 +788,37 @@ Bab 3.
 
 
 
-]) [10] (D:\kuliah\skripsi\dokumen\Bab/bab4.tex
-Bab 4.
-) [11
+] <Gambar/use-case.png, id=382, 813.79031pt x 660.21657pt>
+File: Gambar/use-case.png Graphic file (type png)
+ <use Gambar/use-case.png>
+Package pdftex.def Info: Gambar/use-case.png used on input line 64.
+(pdftex.def)             Requested size: 813.78833pt x 660.21495pt.
+) [10] [11 <D:/kuliah/skripsi/dokumen/Gambar/use-case.png>] (D:\kuliah\skripsi\dokumen\Bab/bab4.tex [12
 
-
-
-] (D:\kuliah\skripsi\dokumen\main.bbl [12
 
 
 ]
+Bab 4.
+) [13] (D:\kuliah\skripsi\dokumen\main.bbl [14
 
-Package lineno Warning: Linenumber reference failed, 
-(lineno)                rerun to get it right.
 
-)
+])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 513.
- [13]
+ [15]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 513.
- (D:\kuliah\skripsi\dokumen\main.aux (D:\kuliah\skripsi\dokumen\Bab/bab1.aux)
-(D:\kuliah\skripsi\dokumen\Bab/bab2.aux) (D:\kuliah\skripsi\dokumen\Bab/bab3.aux)
-(D:\kuliah\skripsi\dokumen\Bab/bab4.aux))
+ (D:\kuliah\skripsi\dokumen\main.aux
+(D:\kuliah\skripsi\dokumen\Bab/bab1.aux) (D:\kuliah\skripsi\dokumen\Bab/bab2.aux)
+(D:\kuliah\skripsi\dokumen\Bab/bab3.aux) (D:\kuliah\skripsi\dokumen\Bab/bab4.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 513.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 513.
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 47C9C2870B6DA2BC8C9D7A762E46C55D;6008
-(rerunfilecheck)             After:  17E5CA12FFAE7A402B1ABD2D6068C968;6134.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 17E5CA12FFAE7A402B1ABD2D6068C968;6134.
  ) 
 Here is how much of TeX's memory you used:
- 14000 strings out of 493921
- 192732 string characters out of 3147267
- 397016 words of memory out of 3000000
- 16950 multiletter control sequences out of 15000+200000
+ 14010 strings out of 493921
+ 192903 string characters out of 3147267
+ 397062 words of memory out of 3000000
+ 16956 multiletter control sequences out of 15000+200000
  21696 words of font info for 49 fonts, out of 3000000 for 9000
  845 hyphenation exceptions out of 8191
  45i,11n,44p,814b,456s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -841,9 +834,9 @@ ono\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:
 .9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\Surya Wono\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
 n\ec\dpi600\ecxc1095.pk> <C:\Users\Surya Wono\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk><C
 :/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (21 pages, 1890164 bytes).
+Output written on main.pdf (23 pages, 2010334 bytes).
 PDF statistics:
- 867 PDF objects out of 1000 (max. 8388607)
- 102 named destinations out of 1000 (max. 500000)
- 388 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 890 PDF objects out of 1000 (max. 8388607)
+ 105 named destinations out of 1000 (max. 500000)
+ 401 words of extra memory for PDF output out of 10000 (max. 10000000)
 

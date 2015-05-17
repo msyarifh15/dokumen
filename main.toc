@@ -41,7 +41,7 @@
 \contentsline {subsection}{\numberline {3.3.2}Fitur Pada Aplikasi \textit {Website}}{10}{subsection.3.3.2}
 \contentsline {subsection}{\numberline {3.3.3}Diagram \textit {Use Case}}{10}{subsection.3.3.3}
 \contentsline {subsection}{\numberline {3.3.4}Diagram Kelas}{10}{subsection.3.3.4}
-\contentsline {chapter}{\numberline {4}Introduction}{11}{chapter.4}
-\contentsline {section}{\numberline {4.1}Motivation}{11}{section.4.1}
-\contentsline {chapter}{Daftar Referensi}{13}{chapter*.4}
+\contentsline {chapter}{\numberline {4}Introduction}{13}{chapter.4}
+\contentsline {section}{\numberline {4.1}Motivation}{13}{section.4.1}
+\contentsline {chapter}{Daftar Referensi}{15}{chapter*.4}
 \renewcommand {\cftchappresnum }{\bf \scshape }
