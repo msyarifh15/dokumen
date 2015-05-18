@@ -43,3 +43,8 @@ Temporary Items
 .apdisk
 *.aux
 main.pdf
+main.lof
+main.log
+main.toc
+main.out
+main.synctex
