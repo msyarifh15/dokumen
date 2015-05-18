@@ -1,18 +1,18 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.5.13)  17 MAY 2015 21:06
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2014.7.19)  17 MAY 2015 15:38
 entering extended mode
 **main.tex
-(D:\kuliah\skripsi\dokumen\main.tex
+("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\main.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
 , bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
-ian, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, icelandic, indonesian, interlingua, irish, italian,
- kannada, kurmanji, latin, latvian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, ngerman
--x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, sloven
-ian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishmax, w
-elsh, loaded.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\report.cls"
+ian, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, icelandic, indonesian, interlingua, irish, italian,
+ kannada, kurmanji, lao, latin, latvian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, ng
+erman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, s
+lovenian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishm
+ax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
 File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -27,64 +27,71 @@ File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2008/07/08 v3.8m The Babel package
 
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\bahasai.ldf"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\bahasai.ldf"
 Language: bahasa 2008/03/15 v1.0l Bahasa Indonesia support from the babel system
- ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2008/07/08 v3.8m Babel common definitions
 \babel@savecnt=\count88
 \U@D=\dimen103
-))) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
- ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\abstract\abstract.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\abstract\abstract.sty"
 Package: abstract 2009/06/08 v1.2a configurable abstracts
 \abstitleskip=\skip43
 \absleftindent=\skip44
 \absrightindent=\skip45
 \absparindent=\skip46
 \absparsep=\skip47
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\chappg\chappg.sty"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\chappg\chappg.sty"
 Package: chappg 2006/05/09 v2.1b page numbering by chapter number pages by chapter (or other unit)
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 130.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
-Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
-Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count89
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
-Package: etoolbox 2015/03/19 v2.1d e-TeX tools for LaTeX (JAW)
- ("C:\Program Files\MiKTeX 2.9\tex\latex\misc\etex.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\misc\etex.sty"
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
 \et@xins=\count90
 )
 \etb@tempcnta=\count91
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
 \fancy@headwidth=\skip48
 \f@ncyO@elh=\skip49
 \f@ncyO@erh=\skip50
@@ -94,29 +101,31 @@ Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
 \f@ncyO@erf=\skip54
 \f@ncyO@olf=\skip55
 \f@ncyO@orf=\skip56
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count92
 \float@exts=\toks14
 \float@box=\box26
 \@float@everytoks=\toks15
 \@floatcapt=\box27
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
-Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count93
@@ -132,15 +141,17 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen111
 \Gm@dimlist=\toks17
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
- ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
@@ -148,7 +159,7 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
 \lst@mode=\count96
 \lst@gtempboxa=\box28
 \lst@token=\toks18
@@ -162,20 +173,21 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 \lst@lineno=\count101
 \lst@maxwidth=\dimen117
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
-File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
 \c@lstnumber=\count102
 \lst@skipnumbers=\count103
 \lst@framebox=\box29
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
-File: listings.cfg 2014/09/06 1.5e listings configuration
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2007/02/22 1.4 listings configuration
 ))
-Package: listings 2014/09/06 1.5e (Carsten Heinz)
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
 Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
 Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \c@tracingmulticols=\count104
 \mult@box=\box30
@@ -222,9 +234,11 @@ Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
 \mult@nat@firstbox=\box54
 \colbreak@box=\box55
 \multicol@sort@counter=\count112
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ifthen.sty"
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\lineno\lineno.sty"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lineno\lineno.sty"
 Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 \linenopenalty=\count113
 \output=\toks19
@@ -241,12 +255,13 @@ Package: lineno 2005/11/02 line numbers on paragraphs v4.41
 \bframesep=\dimen130
 \bframebox=\box56
 LaTeX Info: Redefining \\ on input line 3056.
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
-Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lipsum\lipsum.sty"
+Package: lipsum 2011/04/14 v1.2 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count120
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
-Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2011/07/25 v2.9 Sectioning titles
 \ttl@box=\box57
 \beforetitleunit=\skip59
 \aftertitleunit=\skip60
@@ -257,16 +272,16 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 \titlewidthlast=\dimen134
 \titlewidthfirst=\dimen135
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tocbibind\tocbibind.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tocbibind\tocbibind.sty"
 Package: tocbibind 2010/10/13 v1.5k extra ToC listings
 Package tocbibind Info: The document has chapter divisions on input line 50.
 
 
 Package tocbibind Note: Using chapter style headings, unless overridden.
 
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\tocloft\tocloft.sty"
-Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
-Package tocloft Info: The document has chapter divisions on input line 44.
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tocloft\tocloft.sty"
+Package: tocloft 2010/10/13 v2.3e parameterised ToC, etc., typesetting
+Package tocloft Info: The document has chapter divisions on input line 43.
 \cftparskip=\skip61
 \cftbeforetoctitleskip=\skip62
 \cftaftertoctitleskip=\skip63
@@ -304,110 +319,108 @@ Package tocloft Info: The document has chapter divisions on input line 44.
 \cfttabindent=\skip93
 \cfttabnumwidth=\skip94
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
-Package: setspace 2011/12/19 v6.7a set line spacing
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\xstring\xstring.sty"
-("C:\Program Files\MiKTeX 2.9\tex\generic\xstring\xstring.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xstring\xstring.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xstring\xstring.tex"
 \@xs@message=\write3
 \integerpart=\count123
 \decimalpart=\count124
 )
-Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+Package: xstring 2010/03/28  v1.5d  String manipulations (C Tellechea)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
-Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2011/04/17 v6.82g Hypertext links for LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
-Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
-Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
 Package hobsub Info: Skipping package `ltxcmds' (already loaded).
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 Package hobsub Info: Skipping package `ifvtex' (already loaded).
-Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
 Package hobsub Info: Skipping package `ifpdf' (already loaded).
-Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
-Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
-Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
-Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO)
-Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
-Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
+Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
+Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
 )
 Package hobsub Info: Skipping package `hobsub' (already loaded).
 Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
-Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
 Package: xcolor-patch 2011/01/30 xcolor patch
-Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
-Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
-Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
-Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
-Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
-Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
 )
 \@linkdim=\dimen136
 \Hy@linkcounter=\count125
 \Hy@pagecounter=\count126
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
-File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2011/04/17 v6.82g Hyperref: PDFDocEncoding definition (HO)
 )
 \Hy@SavedSpaceFactor=\count127
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `plainpages' set `false' on input line 4319.
-Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4319.
-Package hyperref Info: Option `unicode' set `true' on input line 4319.
+Package hyperref Info: Option `plainpages' set `false' on input line 3905.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 3905.
+Package hyperref Info: Option `unicode' set `true' on input line 3905.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\puenc.def"
-File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\puenc.def"
+File: puenc.def 2011/04/17 v6.82g Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Hyper figures OFF on input line 4443.
-Package hyperref Info: Link nesting OFF on input line 4448.
-Package hyperref Info: Hyper index ON on input line 4451.
-Package hyperref Info: Plain pages OFF on input line 4458.
-Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Hyper figures OFF on input line 4026.
+Package hyperref Info: Link nesting OFF on input line 4031.
+Package hyperref Info: Hyper index ON on input line 4034.
+Package hyperref Info: Plain pages OFF on input line 4041.
+Package hyperref Info: Backreferencing OFF on input line 4046.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4688.
+Package hyperref Info: Bookmarks ON on input line 4264.
 \c@Hy@tempcnt=\count128
- ("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
 \Urlmuskip=\muskip10
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen137
+LaTeX Info: Redefining \url on input line 4617.
 \Fld@menulength=\count129
-\Field@Width=\dimen138
-\Fld@charsize=\dimen139
-Package hyperref Info: Hyper figures OFF on input line 6295.
-Package hyperref Info: Link nesting OFF on input line 6300.
-Package hyperref Info: Hyper index ON on input line 6303.
-Package hyperref Info: backreferencing OFF on input line 6310.
-Package hyperref Info: Link coloring OFF on input line 6315.
-Package hyperref Info: Link coloring with OCG OFF on input line 6320.
-Package hyperref Info: PDF/A mode OFF on input line 6325.
-LaTeX Info: Redefining \ref on input line 6365.
-LaTeX Info: Redefining \pageref on input line 6369.
+\Field@Width=\dimen137
+\Fld@charsize=\dimen138
+Package hyperref Info: Hyper figures OFF on input line 5701.
+Package hyperref Info: Link nesting OFF on input line 5706.
+Package hyperref Info: Hyper index ON on input line 5709.
+Package hyperref Info: backreferencing OFF on input line 5716.
+Package hyperref Info: Link coloring OFF on input line 5721.
+Package hyperref Info: Link coloring with OCG OFF on input line 5726.
+Package hyperref Info: PDF/A mode OFF on input line 5731.
+LaTeX Info: Redefining \ref on input line 5771.
+LaTeX Info: Redefining \pageref on input line 5775.
 \Hy@abspage=\count130
 \c@Item=\count131
 \c@Hfootnote=\count132
@@ -415,57 +428,60 @@ LaTeX Info: Redefining \pageref on input line 6369.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
-File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2011/04/17 v6.82g Hyperref driver for pdfTeX
 \Fld@listcount=\count133
 \c@bookmark@seq@number=\count134
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
 )
 \Hy@SectionHShift=\skip95
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\emptypage\emptypage.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\emptypage\emptypage.sty"
 Package: emptypage 2010/05/30 v1.2 Suppress page numbers and headings on empty pages
 )
 Package hyperref Info: Option `unicode' set `true' on input line 290.
 Package hyperref Info: Option `colorlinks' set `true' on input line 290.
 
 \@input{data.aux}
-(D:\kuliah\skripsi\dokumen\data.tex ("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\data.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen140
-\lightrulewidth=\dimen141
-\cmidrulewidth=\dimen142
-\belowrulesep=\dimen143
-\belowbottomsep=\dimen144
-\aboverulesep=\dimen145
-\abovetopsep=\dimen146
-\cmidrulesep=\dimen147
-\cmidrulekern=\dimen148
-\defaultaddspace=\dimen149
+\heavyrulewidth=\dimen139
+\lightrulewidth=\dimen140
+\cmidrulewidth=\dimen141
+\belowrulesep=\dimen142
+\belowbottomsep=\dimen143
+\aboverulesep=\dimen144
+\abovetopsep=\dimen145
+\cmidrulesep=\dimen146
+\cmidrulekern=\dimen147
+\defaultaddspace=\dimen148
 \@cmidla=\count135
 \@cmidlb=\count136
-\@aboverulesep=\dimen150
-\@belowrulesep=\dimen151
+\@aboverulesep=\dimen149
+\@belowrulesep=\dimen150
 \@thisruleclass=\count137
 \@lastruleclass=\count138
-\@thisrulewidth=\dimen152
+\@thisrulewidth=\dimen151
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
- ("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
-Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
- ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\colortbl\colortbl.sty"
+Package: colortbl 2001/02/13 v0.1j Color table columns (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen153
-\extrarowheight=\dimen154
+\col@sep=\dimen152
+\extrarowheight=\dimen153
 \NC@list=\toks21
 \extratabsurround=\skip96
 \backup@length=\skip97
@@ -484,14 +500,15 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip99
 \LTright=\skip100
 \LTpre=\skip101
 \LTpost=\skip102
 \LTchunksize=\count140
-\LTcapwidth=\dimen155
+\LTcapwidth=\dimen154
 \LT@head=\box58
 \LT@firsthead=\box59
 \LT@foot=\box60
@@ -502,39 +519,41 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count144
 \LT@p@ftn=\toks23
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
-Package: amsmath 2013/01/14 v2.14 AMS math features
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
 \@mathmargin=\skip103
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
 Package: amstext 2000/06/29 v2.01
- ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks24
-\ex@=\dimen156
-)) ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+\ex@=\dimen155
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d
-\pmbraise@=\dimen157
+\pmbraise@=\dimen156
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count145
-LaTeX Info: Redefining \frac on input line 210.
+LaTeX Info: Redefining \frac on input line 211.
 \uproot@=\count146
 \leftroot@=\count147
-LaTeX Info: Redefining \overline on input line 306.
+LaTeX Info: Redefining \overline on input line 307.
 \classnum@=\count148
 \DOTSCASE@=\count149
-LaTeX Info: Redefining \ldots on input line 378.
-LaTeX Info: Redefining \dots on input line 381.
-LaTeX Info: Redefining \cdots on input line 466.
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
 \Mathstrutbox@=\box62
 \strutbox@=\box63
-\big@size=\dimen158
-LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\big@size=\dimen157
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 \macc@depth=\count150
 \c@MaxMatrixCols=\count151
 \dotsspace@=\muskip11
@@ -545,23 +564,31 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 \column@=\count155
 \maxfields@=\count156
 \andhelp@=\toks26
-\eqnshift@=\dimen159
-\alignsep@=\dimen160
-\tagshift@=\dimen161
-\tagwidth@=\dimen162
-\totwidth@=\dimen163
-\lineht@=\dimen164
+\eqnshift@=\dimen158
+\alignsep@=\dimen159
+\tagshift@=\dimen160
+\tagwidth@=\dimen161
+\totwidth@=\dimen162
+\lineht@=\dimen163
 \@envbody=\toks27
 \multlinegap=\skip104
 \multlinetaggap=\skip105
 \mathdisplay@stack=\toks28
-LaTeX Info: Redefining \[ on input line 2665.
-LaTeX Info: Redefining \] on input line 2666.
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
 ))
 \@input{dosen.aux}
-(D:\kuliah\skripsi\dokumen\dosen.tex) (D:\kuliah\skripsi\dokumen\main.aux (D:\kuliah\skripsi\dokumen\Bab/bab1.aux)
-(D:\kuliah\skripsi\dokumen\Bab/bab2.aux) (D:\kuliah\skripsi\dokumen\Bab/bab3.aux)
-(D:\kuliah\skripsi\dokumen\Bab/bab4.aux))
+("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\dosen.tex") ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\main.aux"
+("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab1.aux")
+("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab2.aux"
+
+LaTeX Warning: Label `fig:iaas-infrastruktur' multiply defined.
+
+
+LaTeX Warning: Label `fig:iaas-infrastruktur' multiply defined.
+
+) ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab3.aux")
+("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab4.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 305.
 LaTeX Font Info:    ... okay on input line 305.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 305.
@@ -578,16 +605,17 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 305.
 LaTeX Font Info:    ... okay on input line 305.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 305.
 LaTeX Font Info:    ... okay on input line 305.
- ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count157
-\scratchdimen=\dimen165
+\scratchdimen=\dimen164
 \scratchbox=\box64
 \nofMPsegments=\count158
 \nofMParguments=\count159
 \everyMPshowfont=\toks29
 \MPscratchCnt=\count160
-\MPscratchDim=\dimen166
+\MPscratchDim=\dimen165
 \MPnumerator=\count161
 \makeMPintoPDFobject=\count162
 \everyMPtoPDFconversion=\toks30
@@ -629,10 +657,10 @@ LaTeX Font Info:    ... okay on input line 305.
 \c@lstlisting=\count163
 \AtBeginShipoutBox=\box65
 Package hyperref Info: Link coloring ON on input line 305.
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
-Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count164
@@ -640,8 +668,8 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 305.
 LaTeX Info: Redefining \pageref on input line 305.
 LaTeX Info: Redefining \nameref on input line 305.
- (D:\kuliah\skripsi\dokumen\main.out)
-(D:\kuliah\skripsi\dokumen\main.out)
+
+("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\main.out") ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\main.out")
 \@outlinefile=\write4
 
 
@@ -657,7 +685,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<Gambar/logo-unpar.png, id=183, 360.59718pt x 356.0803pt>
+<Gambar/logo-unpar.png, id=191, 360.59718pt x 356.0803pt>
 File: Gambar/logo-unpar.png Graphic file (type png)
  <use Gambar/logo-unpar.png>
 Package pdftex.def Info: Gambar/logo-unpar.png used on input line 473.
@@ -668,22 +696,28 @@ Package pdftex.def Info: Gambar/logo-unpar.png used on input line 473.
 
 
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/kuliah/skripsi/dokumen/Gambar/logo-unpar.png>] [2
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/logo-unpar.p
+ng>] [2
 
 ]
 File: Gambar/logo-unpar.png Graphic file (type png)
- <use Gambar/logo-unpar.png>
+
+<use Gambar/logo-unpar.png>
 Package pdftex.def Info: Gambar/logo-unpar.png used on input line 473.
 (pdftex.def)             Requested size: 144.23631pt x 142.4296pt.
  [3] [4
 
-]
-(D:\kuliah\skripsi\dokumen\main.toc [5])
+] ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\main.toc"
+Overfull \hbox (0.15294pt too wide) detected at line 4
+ \T1/cmr/bx/n/10.95 viii
+ []
+
+[5])
 \tf@toc=\write5
- [6] (D:\kuliah\skripsi\dokumen\main.lof)
+ [6] ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\main.lof")
 \tf@lof=\write6
  [7]
-(D:\kuliah\skripsi\dokumen\main.lot)
+("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\main.lot")
 \tf@lot=\write7
  [8]
 *geometry* verbose mode - [ newgeometry ] result:
@@ -718,10 +752,11 @@ Package pdftex.def Info: Gambar/logo-unpar.png used on input line 473.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- (D:\kuliah\skripsi\dokumen\Bab/bab1.tex
+
+("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab1.tex"
 Bab 1.
 LaTeX Font Info:    Try loading font information for T1+cmss on input line 1.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
 File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 ) [1
 
@@ -730,113 +765,167 @@ File: t1cmss.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 42.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 44.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
-)
-[2] (D:\kuliah\skripsi\dokumen\Bab/bab2.tex
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 44.
+) [2]
+("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab2.tex"
 Bab 2.
-<Gambar/Android-system-architecture.jpg, id=301, 843.15pt x 625.6173pt>
-File: Gambar/Android-system-architecture.jpg Graphic file (type jpg)
- <use Gambar/Android-system-architecture.jpg>
-Package pdftex.def Info: Gambar/Android-system-architecture.jpg used on input line 33.
-(pdftex.def)             Requested size: 843.14793pt x 625.61575pt.
+<Gambar/iaas-infrastruktur.png, id=313, 332.74312pt x 169.38281pt>
+File: Gambar/iaas-infrastruktur.png Graphic file (type png)
+ <use Gambar/iaas-infrastruktur.png>
+Package pdftex.def Info: Gambar/iaas-infrastruktur.png used on input line 30.
+(pdftex.def)             Requested size: 332.7423pt x 169.38239pt.
 
-<Gambar/basic-lifecycle.png, id=303, 664.4825pt x 296.10625pt>
-File: Gambar/basic-lifecycle.png Graphic file (type png)
- <use Gambar/basic-lifecycle.png>
-Package pdftex.def Info: Gambar/basic-lifecycle.png used on input line 47.
-(pdftex.def)             Requested size: 664.48087pt x 296.10551pt.
+Overfull \hbox (0.47205pt too wide) in paragraph at lines 26--34
+\T1/cmr/m/n/10.95 merupakan la-yan-an \T1/cmr/m/it/10.95 Clo-ud Com-pu-ting \T1/cmr/m/n/10.95 yang me-nye-di-ak-an in-fr
+as-truk-tur IT ber-u-pa CPU,
+ []
+
+<Gambar/paas-infrastruktur.png, id=314, 310.91156pt x 160.34906pt>
+File: Gambar/paas-infrastruktur.png Graphic file (type png)
+ <use Gambar/paas-infrastruktur.png>
+Package pdftex.def Info: Gambar/paas-infrastruktur.png used on input line 38.
+(pdftex.def)             Requested size: 310.91078pt x 160.34866pt.
  [3
 
 
 
-] [4 <D:/kuliah/skripsi/dokumen/Gambar/Android-system-architecture.jpg> <D:/kuliah/skripsi/dokumen/Gambar/basic-lifecycl
-e.png>]
-<Gambar/phonegap-architecture.png, id=330, 452.4403pt x 277.78781pt>
+ <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/iaas-infrastruktur.png>]
+<Gambar/saas-infrastruktur.png, id=323, 307.1475pt x 166.37157pt>
+File: Gambar/saas-infrastruktur.png Graphic file (type png)
+ <use Gambar/saas-infrastruktur.png>
+Package pdftex.def Info: Gambar/saas-infrastruktur.png used on input line 46.
+(pdftex.def)             Requested size: 307.14674pt x 166.37114pt.
+ [4 <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/paas-infrastruktur.png> <C:/Users/Yohan Sugiyo/Documents/GitH
+ub/dokumen/Gambar/saas-infrastruktur.png>] <Gambar/Android-system-architecture.jpg, id=332, 843.15pt x 625.6173pt>
+File: Gambar/Android-system-architecture.jpg Graphic file (type jpg)
+
+<use Gambar/Android-system-architecture.jpg>
+Package pdftex.def Info: Gambar/Android-system-architecture.jpg used on input line 80.
+(pdftex.def)             Requested size: 843.14793pt x 625.61575pt.
+ <Gambar/basic-lifecycle.png, id=334, 664.4825pt x 296.10625pt>
+File: Gambar/basic-lifecycle.png Graphic file (type png)
+
+<use Gambar/basic-lifecycle.png>
+Package pdftex.def Info: Gambar/basic-lifecycle.png used on input line 94.
+(pdftex.def)             Requested size: 664.48087pt x 296.10551pt.
+ [5 <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/Android-system-architecture.jpg>] <Gambar/phonegap-architectu
+re.png, id=353, 452.4403pt x 277.78781pt>
 File: Gambar/phonegap-architecture.png Graphic file (type png)
  <use Gambar/phonegap-architecture.png>
-Package pdftex.def Info: Gambar/phonegap-architecture.png used on input line 69.
+Package pdftex.def Info: Gambar/phonegap-architecture.png used on input line 116.
 (pdftex.def)             Requested size: 452.43921pt x 277.78711pt.
 
-<Gambar/high-level-hadoop-architecture.png, id=336, 483.30562pt x 275.52937pt>
+<Gambar/high-level-hadoop-architecture.png, id=359, 483.30562pt x 275.52937pt>
 File: Gambar/high-level-hadoop-architecture.png Graphic file (type png)
 
 <use Gambar/high-level-hadoop-architecture.png>
-Package pdftex.def Info: Gambar/high-level-hadoop-architecture.png used on input line 101.
+Package pdftex.def Info: Gambar/high-level-hadoop-architecture.png used on input line 148.
 (pdftex.def)             Requested size: 483.30444pt x 275.52869pt.
- [5 <D:/kuliah/skripsi/dokumen/Gambar/phonegap-architecture.png>]
-<Gambar/arsitektur-hdfs.png, id=347, 508.90125pt x 379.4175pt>
+ <Gambar/arsitektur-hdfs.png, id=361, 508.90125pt x 379.4175pt>
 File: Gambar/arsitektur-hdfs.png Graphic file (type png)
- <use Gambar/arsitektur-hdfs.png>
-Package pdftex.def Info: Gambar/arsitektur-hdfs.png used on input line 115.
+
+<use Gambar/arsitektur-hdfs.png>
+Package pdftex.def Info: Gambar/arsitektur-hdfs.png used on input line 162.
 (pdftex.def)             Requested size: 508.90001pt x 379.41656pt.
- [6 <D:/kuliah/skripsi/dokumen/Gambar/high-level-hadoop-architecture.png>] <Gambar/google-oauth.png, id=359, 713.66624pt
- x 511.9125pt>
+ [6 <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/basic-lifecycle.png>]
+[7 <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/phonegap-architecture.png> <C:/Users/Yohan Sugiyo/Documents/Gi
+tHub/dokumen/Gambar/high-level-hadoop-architecture.png>] [8 <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/arsit
+ektur-hdfs.png>] <Gambar/google-oauth.png, id=388, 713.66624pt x 511.9125pt>
 File: Gambar/google-oauth.png Graphic file (type png)
-
-<use Gambar/google-oauth.png>
-Package pdftex.def Info: Gambar/google-oauth.png used on input line 171.
+ <use Gambar/google-oauth.png>
+Package pdftex.def Info: Gambar/google-oauth.png used on input line 218.
 (pdftex.def)             Requested size: 713.66449pt x 511.91125pt.
-) [7 <D:/kuliah/skripsi/dokumen/Gambar/arsitektur-hdfs.png>] [8 <D:/kuliah/skripsi/dokumen/Gambar/google-oauth.png>] (D:
-\kuliah\skripsi\dokumen\Bab/bab3.tex
+ [9 <C:/Users/Yohan Sugiyo/Documents/GitHub/dokumen/Gambar/google-oauth.png>]) [10]
+("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab3.tex"
 Bab 3.
-[9
+! Too many }'s.
+l.26 \end{enumerate}}
+                     
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
 
-
-
-] <Gambar/use-case.png, id=382, 813.79031pt x 660.21657pt>
-File: Gambar/use-case.png Graphic file (type png)
- <use Gambar/use-case.png>
-Package pdftex.def Info: Gambar/use-case.png used on input line 64.
-(pdftex.def)             Requested size: 813.78833pt x 660.21495pt.
-) [10] [11 <D:/kuliah/skripsi/dokumen/Gambar/use-case.png>] (D:\kuliah\skripsi\dokumen\Bab/bab4.tex [12
+[11
 
 
 
 ]
+! Too many }'s.
+l.38 \end{enumerate}}
+                     
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+
+Package lineno Warning: Linenumber reference failed, 
+(lineno)                rerun to get it right.
+
+! Too many }'s.
+l.52 \end{enumerate}}
+                     
+You've closed more groups than you opened.
+Such booboos are generally harmless, so keep going.
+
+) [12] ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab4.tex"
 Bab 4.
-) [13] (D:\kuliah\skripsi\dokumen\main.bbl [14
+) [13
+
+
+
+] ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\main.bbl" [14
 
 
 ])
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 513.
  [15]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 513.
- (D:\kuliah\skripsi\dokumen\main.aux
-(D:\kuliah\skripsi\dokumen\Bab/bab1.aux) (D:\kuliah\skripsi\dokumen\Bab/bab2.aux)
-(D:\kuliah\skripsi\dokumen\Bab/bab3.aux) (D:\kuliah\skripsi\dokumen\Bab/bab4.aux))
+
+("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\main.aux" ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab1.aux
+") ("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab2.aux")
+("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab3.aux")
+("C:\Users\Yohan Sugiyo\Documents\GitHub\dokumen\Bab/bab4.aux"))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 513.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 513.
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 17E5CA12FFAE7A402B1ABD2D6068C968;6134.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: CC4DC82493B9189A64B4B4B380B6A9BC;6575
+(rerunfilecheck)             After:  FE84C2A7A86EFEB26D61993F5A5A559A;6764.
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 14010 strings out of 493921
- 192903 string characters out of 3147267
- 397062 words of memory out of 3000000
- 16956 multiletter control sequences out of 15000+200000
+ 11829 strings out of 494045
+ 164550 string characters out of 3145948
+ 375025 words of memory out of 3000000
+ 14770 multiletter control sequences out of 15000+200000
  21696 words of font info for 49 fonts, out of 3000000 for 9000
- 845 hyphenation exceptions out of 8191
- 45i,11n,44p,814b,456s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Surya Wono\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1000.pk> <C:\Users\Surya Wono\Ap
-pData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0900.pk> <C:\Users\Surya Wono\AppData\Local\MiKTeX\2.9\fon
-ts\pk\ljfour\jknappen\ec\dpi600\ecrm0600.pk> <C:\Users\Surya Wono\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\d
-pi600\ecbi1200.pk> <C:\Users\Surya Wono\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Use
-rs\Surya Wono\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\Surya Wono\AppData\Loca
-l\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1440.pk> <C:\Users\Surya Wono\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
-ur\jknappen\ec\dpi600\eccc1000.pk> <C:\Users\Surya Wono\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecss
-0600.pk> <C:\Users\Surya Wono\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1095.pk> <C:\Users\Surya W
-ono\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\Surya Wono\AppData\Local\MiKTeX\2
-.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1095.pk> <C:\Users\Surya Wono\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappe
-n\ec\dpi600\ecxc1095.pk> <C:\Users\Surya Wono\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk><C
-:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on main.pdf (23 pages, 2010334 bytes).
+ 719 hyphenation exceptions out of 8191
+ 45i,11n,53p,814b,456s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbi1200.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbi1440.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
+/cm-super/sfbx1095.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1200.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sf
+cc1000.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm0600.pfb><C:/Program Files (x86)/MiKTeX 2.
+9/fonts/type1/public/cm-super/sfrm0800.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm0900.pfb><
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type
+1/public/cm-super/sfss0600.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfti1000.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfti1095.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/cm-
+super/sfxc1095.pfb>
+Output written on main.pdf (23 pages, 2045469 bytes).
 PDF statistics:
- 890 PDF objects out of 1000 (max. 8388607)
- 105 named destinations out of 1000 (max. 500000)
- 401 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 509 PDF objects out of 1000 (max. 8388607)
+ 110 named destinations out of 1000 (max. 500000)
+ 427 words of extra memory for PDF output out of 10000 (max. 10000000)
 

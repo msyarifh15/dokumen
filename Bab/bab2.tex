@@ -4,6 +4,51 @@
 \section{\textit{Mobile Cloud Computing}}
 \label{sec:mobilecloudcomputing}
 
+Pada sub-bab ini akan dibahas mengenai pengertian dan arsitektur \textit{Mobile Cloud Computing}.
+
+\subsection{Pengertian \textit{Cloud Computing}}
+\label{subsec:pengertiancloud}
+\hspace{0,5cm} \textit{Cloud Computing} adalah gabungan pemanfaatan komputer dan pengembangan berbasis internet. \textit{Cloud Computing} menawarkan kemudahan layanan terkait informasi tanpa pengguna mengetahui apa yang ada di dalamnya.
+
+\subsection{Manfaat \textit{Cloud Computing}}
+\label{subsec:pengertianmanfaatcloud}
+\begin{itemize}
+	\item Skalabilitas, yaitu memudahkan dalam perluasan penambahan kapasitas.
+	\item Aksesibilitas, yaitu memudahkan dalam pengaksesan dimanapun dan kapanpun.
+	\item Keamanan
+	\item Kreasi
+	\item Kecemasan
+\end{itemize}
+
+\subsection{Layanan \textit{Cloud Computing}}
+\label{subsec:pengertianlayanancloud}
+\begin{itemize}
+	\item Infrastructure as a Service (IaaS)\\
+	merupakan layanan \textit{Cloud Computing} yang menyediakan infrastruktur IT berupa CPU, RAM, storage, bandwith dan konfigurasi lain.
+	\begin{figure}[h]
+		\centering
+			\includegraphics{Gambar/iaas-infrastruktur}
+		\caption{Infrastruktur as a Service Stack}
+		\label{fig:iaas-infrastruktur}
+	\end{figure}
+	\item Platform as a Service (PaaS)\\
+	merupakan layanan yang menyediakan computing platform. Biasanya sudah terdapat sistem operasi, database, web server dan framework aplikasi agar dapat menjalankan aplikasi yang telah dibuat.
+	\begin{figure}[h]
+		\centering
+			\includegraphics{Gambar/paas-infrastruktur}
+		\caption{Infrastruktur as a Service Stack}
+		\label{fig:iaas-infrastruktur}
+	\end{figure}
+	\item Software as a Service (SaaS)\\
+	merupakan layanan komputasi awan dimana kita bisa langsung menggunakan aplikasi yang telah disediakan.
+	\begin{figure}[h]
+		\centering
+			\includegraphics{Gambar/saas-infrastruktur}
+		\caption{Infrastruktur as a Service Stack}
+		\label{fig:iaas-infrastruktur}
+	\end{figure}
+\end{itemize}
+
 \section{Android}
 \label{sec:android}
 
@@ -12,7 +57,9 @@ Pada sub-bab ini akan dibahas mengenai pengertian dan arsitektur Android.
 \subsection{Pengertian Android}
 \label{subsec:pengertianandroid}
 
-Android merupakan sistem operasi untuk \textit{mobile device}.
+Android merupakan sistem operasi buatan Google untuk \textit{mobile device}. Saat penelitian ini dilakukan Sistem operasi Android menjadi yang paling populer dan sudah digunakan oleh lebih dari 100 juta pengguna di seluruh dunia. Kesuksesan Android tidak lepas dari basis \textit{open-source} yang memungkinkan pembuatan varian kustom dari Android.
+%http://developer.android.com/index.html
+%about -> http://developer.android.com/about/index.html
 
 \subsection{Arsitektur Android}
 \label{subsec:arsitektur}
@@ -120,7 +167,7 @@ HDFS adalah komponen penyimpanan data dari Hadoop yang merupakan sistem penyimpa
 \subsection{MapReduce}
 \label{subsec:mapreduce}
 
-MapReduce merupakan \textit{batch-based}, komputasi terdistribusi \textit{framework} yang memungkinkan komputasi paralel terhadap data yang cukup besar. MapReduce menyederhanakan pemrosesan paralel oleh abstraksi kerja yang komplek. Dengan abstraksi ini, MapReduce memungkinkan \textit{programmer} untuk berfokus pada kebutuhan bisnis dibandingkan memikirkan sistem distribusinya.
+\hspace{0,5cm}MapReduce merupakan \textit{batch-based}, komputasi terdistribusi \textit{framework} yang memungkinkan komputasi paralel terhadap data yang cukup besar. MapReduce menyederhanakan pemrosesan paralel oleh abstraksi kerja yang komplek. Dengan abstraksi ini, MapReduce memungkinkan \textit{programmer} untuk berfokus pada kebutuhan bisnis dibandingkan memikirkan sistem distribusinya.
 
 \subsection{HBase}
 \label{subsec:hbase}
@@ -157,12 +204,12 @@ Pada sub-bab ini akan dibahas mengenai OAuth dan Google Oauth.
 \subsection{Open Authentication (OAuth)}
 \label{subsec:oauth}
 
-OAuth merupakan standar terbuka untuk autentikasi. Oauth menyediakan akases yang aman kepada klien untuk mengakses \textit{server}. Hal ini menjadikan \textit{server} dapat diakses oleh \textit{third-party}. Desain OAuth diatas HTTP. Prinsip OAuth pada dasarnya menyediakan akses token kepada klien/pengguna akhir sehingga dapat digunakan untuk bertransaksi dengan \textit{server}\footnote{http://tools.ietf.org/html/rfc6749}.
+\hspace{0,5cm}OAuth merupakan standar terbuka untuk autentikasi. Oauth menyediakan akses yang aman kepada klien untuk mengakses \textit{server}. Hal ini menjadikan \textit{server} dapat diakses oleh \textit{third-party}. Desain OAuth diatas HTTP. Prinsip OAuth pada dasarnya menyediakan akses token kepada klien/pengguna akhir sehingga dapat digunakan untuk bertransaksi dengan \textit{server}\footnote{http://tools.ietf.org/html/rfc6749}.
 
 \subsection{Google \textit{OAuth}}
 \label{subsec:googleip}
 
-Google OAuth merupakan protokol OAuth yang digunakan oleh google untuk memberikan akses kepada \textit{third-party} untuk mengakses API mereka. Skema untuk mengakses Google OAuth dapat dilihat pada Gambar~\ref{fig:google_oauth}.
+\hspace{0,5cm}Google OAuth merupakan protokol OAuth yang digunakan oleh google untuk memberikan akses kepada \textit{third-party} untuk mengakses API mereka. Skema untuk mengakses Google OAuth dapat dilihat pada Gambar~\ref{fig:google_oauth}.
 
 \begin{figure}
 \centering
@@ -172,3 +219,15 @@ Google OAuth merupakan protokol OAuth yang digunakan oleh google untuk memberika
 \caption[Google OAuth]{Google OAuth} 
 \label{fig:google_oauth}
 \end{figure}
+
+\subsection{Google \textit{Identity Platform}}
+\label{subsec:googleidentityplatform}
+\hspace{0,5cm} Merupakan layanan dari Google yang memberikan kemudahan dan keamanan  untuk masuk ke situs dan aplikasi dengan mudah. Untuk memanfaatkan layanan dibutuhkan pemanfaatan API di situs maupun aplikasi. Solusi layanan yang dapat digunakan untuk Android, iOS, dan situs adalah Google Sign-In. Berikut kegunaan dari Google Sign-In.
+\begin{itemize}
+	\item Mendapatkan pengguna untuk mengakses aplikasi dengan cepat dan aman dengan pengembangan yang sedikit. 
+	\item Pengguna cukup \textit{sign-in} sekali dan di \textit{authenticated} di semua perangkat mereka.
+	\item Layanan Google yang terintegrasi
+	\item Memungkinkan instalasi dari aplikasi Android ketika pengguna masuk ke situs
+\end{itemize}
+   
+%API = https://developers.google.com/identity/sign-in/web/sign-in
