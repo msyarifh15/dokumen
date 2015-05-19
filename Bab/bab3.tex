@@ -4,15 +4,26 @@
 \section{Deskripsi Masalah}
 \label{sec:deskripsimasalah}
 
-\hspace{0,5cm}Pada penilitian ini, akan dibuat suatu aplikasi yang dapat membantu suatu rumah tangga dalam pengelolaan keuangan mereka. Aplikasi ini dapat digunakan oleh setiap anggota rumah tangga untuk mencatat semua transaksi yang mereka lakukan baik pengeluaran maupun pendapatan. Aplikasi ini juga dapat menampilkan laporan sesuai dengan transaksi yang telah tercatat.
+\hspace{0,5cm}Untuk mengolah keuangan sebuah rumah tangga tidaklah mudah. Rumah tangga memiliki beberapa anggota yang terdiri dari kepala, pengurus dan anggota(anak) rumah tangga. Tentunya pengololahan rumah tangga dilakukan oleh kepala rumah tangga atas semua transaksi keuangan yang dilakukan oleh anggota rumah tangga. Untuk melaporkan semua transaksi yang dilakukan oleh anggota rumah tangga kepada kepala rumah tangga terkadang terhalang oleh komunikasi apalagi jika kepala dan anggota rumah tangga tinggal ditempat yang berbeda.
+
+Dari masalah tersebut, akan dibuat suatu aplikasi yang dapat membantu suatu rumah tangga dalam pengelolaan keuangan mereka. Aplikasi ini dapat digunakan oleh setiap anggota rumah tangga untuk mencatat semua transaksi yang mereka lakukan baik pengeluaran maupun pendapatan. Aplikasi ini juga dapat menampilkan laporan sesuai dengan transaksi yang telah tercatat.
 
 Aplikasi ini sendiri terbagi menjadi dua bagian yaitu aplikasi \textit{end-user} yang digunakan langsung oleh para anggota rumah tangga dan aplikasi yang digunakan oleh admin untuk mengelolah data-data aplikasi.
 
 Data-data yang tercatat tentunya akan disimpan kedalam sebuah basis data sehingga aplikasi ini sendiri akan berkomunikasi dengan \textit{server} yang berfungsi sebagai penyimpanan dan pengolahan data yang dibangun diatas \textit{framework} Hadoop. Untuk komunkasi aplikasi dan \textit{server} akan menggunakan HTTP dimana aplikasi akan mengakses \textit{webservice} yang telah disediakan oleh \textit{server}.
 
-\section{\textit{Cloud Computing Model} untuk kasus pembukuan}
+\section{\textit{Mobile Cloud Computing Model} untuk Pembukuan Rumah Tangga}
 
+Pada permodelan dipenelitian ini menggunakan \textit{Mobile Cloud Computing Model} dimana aplikasi akan berkomunikasi dengan \textit{server} melalui \text{webservice} diatas HTTP. \textit{Webservice} akan gerbang bagi aplikasi untuk memanipulasi data. Untuk bagian \textit{back-end}, \textit{webservice} akan ditulis di atas PHP dan menggunakan Trafodion untuk memanipulasi data diatas Hadoop. Gambaran model dapat dilihat pada Gambar~\ref{fig:prt_architecture}
 
+\begin{figure}
+\centering
+\resizebox{\textwidth}{!}{
+\includegraphics{Gambar/prt-architecture}
+}
+\caption[Permodelan Pembukuan Rumah Tangga]{Permodelan Pembukuan Rumah Tangga} 
+\label{fig:prt_architecture}
+\end{figure}
 
 \section{Analisis Kebutuhan Perangkat Lunak}
 
@@ -76,5 +87,3 @@ Diagram \textit{use case website} yang digunakan admin dapat dilihat pada Gambar
 \caption[Diagram \textit{Use Case Mobile Website}]{Diagram \textit{Use Case Mobile Website}} 
 \label{fig:diagram_use_case_website}
 \end{figure}
-
-\subsection{Diagram Kelas}
