@@ -5,8 +5,5 @@ A level-1 auxiliary file: Bab/bab3.aux
 A level-1 auxiliary file: Bab/bab4.aux
 The style file: ieeetr.bst
 Database file #1: pustaka.bib
-Repeated entry---line 11 of file pustaka.bib
- : @misc{holmes2012hadoop
- :                       ,
-I'm skipping whatever remains of this entry
-(There was 1 error message)
+Warning--empty journal in leymann2014cloud
+(There was 1 warning)
