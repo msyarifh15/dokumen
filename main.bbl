@@ -1,5 +1,9 @@
 \begin{thebibliography}{1}
 
+\bibitem{leymann2014cloud}
+C.~F.~F. Leymann, R.~Retter, W.~Schupeck, and P.~Arbitter, ``Cloud computing
+  patterns,'' 2014.
+
 \bibitem{holmes2012hadoop}
 A.~Holmes, {\em Hadoop in practice}.
 \newblock Manning Publications Co., 2012.
