@@ -4,8 +4,27 @@
 C.~F.~F. Leymann, R.~Retter, W.~Schupeck, and P.~Arbitter, ``Cloud computing
   patterns,'' 2014.
 
+\bibitem{mcc}
+``Mobile cloud computing.''
+  \url{http://www.erpublications.com/uploaded_files/download/download_12_05_2014_16_34_15.pdf},
+  2014.
+\newblock Accessed: 2015-2-21.
+
 \bibitem{holmes2012hadoop}
 A.~Holmes, {\em Hadoop in practice}.
 \newblock Manning Publications Co., 2012.
+
+\bibitem{rfc3986}
+T.~Berners-Lee, R.~Fielding, and L.~Masinter, ``{Uniform Resource Identifier
+  (URI): Generic Syntax}.'' RFC 3986 (INTERNET STANDARD), Jan. 2005.
+\newblock Updated by RFCs 6874, 7320.
+
+\bibitem{rfc6749}
+D.~Hardt, ``{The OAuth 2.0 Authorization Framework}.'' RFC 6749 (Proposed
+  Standard), Oct. 2012.
+
+\bibitem{android}
+``Google developer.'' \url{http://developer.android.com/}, 2014.
+\newblock Accessed: 2015-3-17.
 
 \end{thebibliography}
