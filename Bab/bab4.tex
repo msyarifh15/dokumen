@@ -173,10 +173,118 @@
 \label{fig:design_web_index_rumah_tangga}
 \end{figure}
 
+\section{Disain \textit{Webservice}}
+
+\hspace{0,5cm}Pada webservice ini, terdapat dua peristiwa utama yaitu \textit{request} dan \textit{response}.Request akan memiliki beberapa parameter sesuai fungsi yang digunakan. Response yang dikembalikan dari \textit{webservice} berupan JSON dan memiliki format sesuai dengan Gambar~\ref{fig:format_response_webservice} dimana terdapat atribut utama yaitu \textit{response} yang membungkus tiga atribut lainnya yaitu status yang merupakan kode status dari \textit{request}, message yang merupakan keterangan status dan data yang merupakan atribut yang membungkus nilai-nilai yang dikembalikan.
+
+\begin{figure}
+\centering
+\resizebox{\textwidth}{!}{
+\includegraphics{Gambar/format_response_webservice}
+}
+\caption[Format \textit{response webservice}]{Format \textit{response webservice}} 
+\label{fig:format_response_webservice}
+\end{figure}
+
+\textit{Request} dan \textit{response} pada \textit{webservice} untuk setiap fungsi akan dijelaskan sebagai berikut:
+\begin{enumerate}
+	\item Login (POST)
+		\begin{itemize}
+			\item Request pada Tabel~\ref{tab:request_login}
+				\begin{table}[h]
+					\centering
+						\begin{tabular}{ |p{4cm}|p{10cm}|}
+							\hline
+							parameter & nilai \\ \hline
+							email & email yang digunakan saat mendaftar \\ \hline
+							password & password yang didaftarkan \\ \hline
+					\end{tabular}
+					\caption{\textit{Request login}}
+					\label{tab:request_login}
+				\end{table}
+			\item Response pada Tabel~\ref{tab:response_login}
+				\begin{table}[h]
+					\centering
+						\begin{tabular}{ |p{4cm}|p{10cm}|}
+							\hline
+							atribut & nilai \\ \hline
+							status & 202 / 402 \\ \hline
+							message & Login berhasil / Login gagal \\ \hline
+							data & [data anggota dan rumah tangga] \\ \hline
+						\end{tabular}
+						\caption{\textit{Response login}}
+					\label{tab:response_login}
+				\end{table}
+		\end{itemize}
+		
+		\item Menambah transaksi (POST)
+		\begin{itemize}
+			\item Request pada Tabel~\ref{tab:request_tambah_transaksi}
+				\begin{table}[h]
+					\centering
+						\begin{tabular}{ |p{4cm}|p{10cm}|}
+							\hline
+							parameter & nilai \\ \hline
+							kategori\_id & id kategori yang dipilih \\ \hline
+							besaran & nilai transaksi \\ \hline
+							deskripsi & deskripsi transaksi \\ \hline
+							waktu & waktu transaksi \\ \hline
+							anggota\_id & id anggota \\ \hline
+					\end{tabular}
+					\caption{\textit{Request} penambahan transaksi}
+					\label{tab:request_tambah_transaksi}
+				\end{table}
+			\item Response pada Tabel~\ref{tab:response_tambah_transaksi}
+				\begin{table}[h]
+					\centering
+						\begin{tabular}{ |p{4cm}|p{10cm}|}
+							\hline
+							atribut & nilai \\ \hline
+							status & 200\\ \hline
+							message & Berhasil disimpan \\ \hline
+							data & [data sesuai request] \\ \hline
+						\end{tabular}
+						\caption{\textit{Request} penambahan transaksi}
+					\label{tab:response_tambah_transaksi}
+				\end{table}
+		\end{itemize}
+		
+		\item Menyiapkan data laporan (GET)
+		\begin{itemize}
+			\item Request pada Tabel~\ref{tab:request_laporan}
+				\begin{table}[h]
+					\centering
+						\begin{tabular}{ |p{4cm}|p{10cm}|}
+							\hline
+							parameter & nilai \\ \hline
+							jenis & jenis laporan (tahun \& bulan) \\ \hline
+							anggota\_id & id anggota \\ \hline
+							tahun (untuk jenis bulanan) & tahun laporan \\ \hline
+							bulan (untuk jenis mingguan) & minggu laporan \\ \hline
+					\end{tabular}
+					\caption{\textit{Request} penyiapan data laporan}
+					\label{tab:request_laporan}
+				\end{table}
+			\item Response pada Tabel~\ref{tab:response_laporan}
+				\begin{table}[h]
+					\centering
+						\begin{tabular}{ |p{4cm}|p{10cm}|}
+							\hline
+							atribut & nilai \\ \hline
+							status & 400\\ \hline
+							message & Data found \\ \hline
+							data & [data laporan] \\ \hline
+						\end{tabular}
+						\caption{\textit{Response} penyiapan data laporan}
+					\label{tab:response_laporan}
+				\end{table}
+		\end{itemize}
+\end{enumerate}
+
 \section{Disain Basis Data}
 \label{sec:disainbasisdata}
 
-Pada sub-bab ini akan digambarkan disain basis data berupa \textit{Entity Relational Diagram} untuk aplikasi pembukuan rumah tangga dan \textit{website} pengolahan aplikasi pada Gambar~\ref{fig:er_diagram_prt}.
+\hspace{0,5cm}Pada sub-bab ini akan digambarkan disain basis data berupa \textit{Entity Relational Diagram} untuk aplikasi pembukuan rumah tangga dan \textit{website} pengolahan aplikasi pada Gambar~\ref{fig:er_diagram_prt}.
 
 \begin{figure}[h]
 \centering

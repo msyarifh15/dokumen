@@ -27,11 +27,13 @@ Pada permodelan dipenelitian ini menggunakan \textit{Mobile Cloud Computing Mode
 
 \section{Analisis Kebutuhan Perangkat Lunak}
 
-\hspace{0,5cm}Pada sub-bab ini akan dibahas fitur-fitur yang disediakan aplikasi.
+\hspace{0,5cm}Pada sub-bab ini akan dibahas mengenai analisis terhadap perangkat lunak yang akan dikembangkan.
 
-\subsection{Fitur Pada Aplikasi \textit{Mobile Device}}
+\subsection{Analisis Aplikasi \textit{Mobile Device}}
 
-\hspace{0,5cm}Pada aplikasi ini, terdapat beberapa peran, yaitu:
+Pada aplikasi \textit{mobile device} akan ditujukan kepada pengguna rumah tangga untuk mengelolah transaksi yang mereka lakukan. Aplikasi ini memiliki beberapa fitur utama dan tiga peran.
+
+\hspace{0,5cm}Peran yang ada pada aplikasi ini yakni:
 \begin{enumerate}
 	\item Kepala rumah tangga
 	\item	Pengurus rumah tangga
@@ -50,7 +52,10 @@ Fitur-fitur yang ada, yakni:
 	\item Melihat transaksi, fitur ini dapat diakses oleh semua peran rumah tangga.
 \end{enumerate}
 
-\subsection{Fitur Pada Aplikasi \textit{Website}}
+Penulis akan mengembangkan aplikasi \textit{mobile device} menggunakan Phonegap yang ditulis diatas \textit{webview} tetapi aplikasi ini tidak akan berjalan diatas \textit{web browser} karena Phonegap yang akan meng-\textit{compile} aplikasi ini sehingga akan menjadi suatu aplikasi Android.Untuk tampilan dasar pada aplikasi, penulis menggunakan \textit{framework} Onsen-UI yang dibangun diatas AngularJS. Penulis memilih \textit{framework} ini karena merupakan \textit{single page web} yang cocok untuk membuat aplikasi yang hendak dibangun penulis. Selain menggunakan AngularJS, penulis juga mengguna Jquery untuk memanipulasi data pada aplikasi.
+
+
+\subsection{Analisis Aplikasi \textit{Website}}
 
 \hspace{0,5cm}Aplikasi \textit{website} ini dibuat hanya untuk admin sehingga dapat mengatur data-data yang ada pada aplikasi.
 
@@ -64,7 +69,49 @@ Fitur-fitur yang ada yakni:
 				Admin dapat membuat laporan secara keseluruhan
 \end{enumerate}
 
-\subsection{Diagram \textit{Use Case}}
+Penulis akan mengembangkan aplikasi \textit{website} menggunakan \textit{framework} CakePHP yang ditulis diatas PHP. CakePHP mengikuti disain MVC yang memudahkan untuk membuat suatu aplikasi \textit{website}.
+
+Pada aplikasi ini, terdapat beberapa model berupa:
+\begin{itemize}
+	\item Anggota yang merepresentasikan anggota pengguna aplikasi \textit{mobile device.}
+	\item Kategori yang merepresentasikan kategori-kategori transaksi yang ada.
+	\item Rumah Tangga yang merepresentasikan sebuah rumah tangga
+	\item Transaksi yang merepresentasikan transaksi yang dilakukan oleh anggota.
+	\item Account yang merepresentasikan akun pengguna aplikasi \textit{website}.
+	\item Module yang merepresentasikan menu yang ada pada aplikasi \textit{website}.
+	\item ModuleContent yang merepresentasikan sub-sub menu yang ada pada aplikasi \textit{website}.
+	\item User yang merepresentasikan data login untuk akun pengguna aplikasi \textit{website}.
+	\item UserGroup yang merepresentasikan grup akun.
+	\item Role yang merepresentasikan hak akses setiap UserGroup.
+\end{itemize}
+
+\subsection{Analisis \textit{Webservice}}
+
+\hspace{0,5cm}Aplikasi \textit{mobile device} membutuhkan fungsi-fungsi untuk memanipulasi data. Fungsi-fungsi ini dapat dibangun pada aplikasi \textit{website} dan biasanya disebut dengan \textit{webservice}. Penulis akan membuat webservice yang berfungsi menyediakan layanan untuk aplikasi \textit{mobile device}. Penulis akan membangun webservice diatas PHP, mengikuti disain REST dan menggunakan JSON sebagai respon format data.
+
+Adapun beberapa layanan yang akan dibuat berupa:
+\begin{itemize}
+	\item Mencatat transaksi.
+	\item Menambah dan mengurangi kategori transaksi.
+	\item Menyiapkan data laporan.
+	\item Melihat anggota rumah tangga.
+\end{itemize}
+
+\subsection{\textit{Use Case}}
+
+\hspace{0,5cm}Proses yang akan dilalui dalam bisnis ini berupa:
+\begin{enumerate}
+	\item Administrator menentukan katagori transaksi yang dapat dipakai oleh semua rumah tangga.
+	\item Kepala rumah tangga mendaftarkan diri ke sistem.
+	\item Administrator memverifikasi dan menyetujui pendaftaran Kepala rumah tangga.
+	\item Kepala rumah tangga yang sudah disetujui pendaftarannya, melengkapi data profil rumah tangganya.
+	\item Kepala rumah tangga mendaftarkan pengurus dan anggota rumah tangganya.
+	\item Kepala rumah tangga dapat menambahkan atau mengurangi katagori transaksi keuangan yang dapat digunakan dalam rumah tangganya.  
+	\item Kepala rumah tangga dapat mengalokasikan katagori transaksi keuangan di dalam rumah tangganya kepada pengurus dan anggota rumah tangga.
+	\item Kepala atau pengurus rumah tangga dapat mentransfer uang dari akun induk ke akun anggota rumah tangga.
+	\item Kepala atau pengurus rumah tangga dapat memonitor semua transaksi rumah tangganya melalui laporan rumah tangganya.
+	\item Semua anggota rumah tangga (termasuk Kepala dan Pengurus) dapat melakukan transaksi keuangan sesuai dengan katagori transaksi keuangan yang telah dialokasikan kepadanya.
+\end{enumerate}
 
 \hspace{0,5cm}Diagram \textit{use case} oleh pengguna aplikasi dapat dilihat pada Gambar~\ref{fig:diagram_use_case_mobile}
 

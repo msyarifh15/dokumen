@@ -19,6 +19,10 @@ T.~Berners-Lee, R.~Fielding, and L.~Masinter, ``{Uniform Resource Identifier
   (URI): Generic Syntax}.'' RFC 3986 (INTERNET STANDARD), Jan. 2005.
 \newblock Updated by RFCs 6874, 7320.
 
+\bibitem{rfc7159}
+T.~Bray, ``{The JavaScript Object Notation (JSON) Data Interchange Format}.''
+  RFC 7159 (Proposed Standard), Mar. 2014.
+
 \bibitem{rfc6749}
 D.~Hardt, ``{The OAuth 2.0 Authorization Framework}.'' RFC 6749 (Proposed
   Standard), Oct. 2012.

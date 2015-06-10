@@ -144,26 +144,74 @@ Phonegap menggunakan HTML\ref{subsec:html} dan CSS\ref{subsec:css} untuk me-\tex
 \label{fig:arsitektur_phonegap}
 \end{figure}
 
-\subsection{HTML}
-\label{subsec:html}
+Teknologi dasar yang digunakan untuk membangun aplikasi menggunakan Phonegap:
+\begin{enumerate}
+	\item HTML merupakan suatu bahasa standar yang digunakan untuk membuat halaman situs\footnote{\url{http://www.merriam-webster.com/dictionary/hypertext markup language}}. Contoh penggunaan dapat dilihat pada Gambar~\ref{fig:contoh_html} dan tampilan hasil dapat dilihat pada Gambar~\ref{fig:hasil_contoh_html}
+		\begin{figure}[h]
+		\centering
+		\resizebox{\textwidth}{!}{
+		\includegraphics{Gambar/contoh-html}
+		}
+		\caption[Contoh HTML]{Contoh HTML} 
+		\label{fig:contoh_html}
+		\end{figure}
+		\begin{figure}[h]
+		\centering
+		\resizebox{\textwidth}{!}{
+		\includegraphics{Gambar/hasil-contoh-html}
+		}
+		\caption[Hasil contoh HTML]{Hasil contoh HTML} 
+		\label{fig:hasil_contoh_html}
+		\end{figure}
+	\item CSS merupakan suatu bahasa yang digunakan untuk menformat tampilan suatu dokumen. Contoh penggunaan dapat dilihat pada Gambar~\ref{fig:contoh_html_css} dan tampilan hasil dapat dilihat pada Gambar~\ref{fig:hasil_contoh_html_css}
+		\begin{figure}[h]
+		\centering
+		\resizebox{\textwidth}{!}{
+		\includegraphics{Gambar/contoh-html-css}
+		}
+		\caption[Contoh CSS pada dokumen HTML]{Contoh CSS pada dokumen HTML} 
+		\label{fig:contoh_html_css}
+		\end{figure}
+		\begin{figure}[h]
+		\centering
+		\resizebox{\textwidth}{!}{
+		\includegraphics{Gambar/hasil-contoh-html-css}
+		}
+		\caption[Hasil contoh CSS pada dokumen HTML]{Hasil contoh CSS pada dokumen HTML} 
+		\label{fig:hasil_contoh_html_css}
+		\end{figure}
+	\item Javascript merupakan bahasa pemograman yang pada umumnya digunakan pada \textit{web browser}. Contoh penggunaan dapat dilihat pada Gambar~\ref{fig:contoh_js} dan tampilan hasil dapat dilihat pada Gambar~\ref{fig:hasil_js}
+		\begin{figure}[h]
+		\centering
+		\resizebox{\textwidth}{!}{
+		\includegraphics{Gambar/contoh-js}
+		}
+		\caption[Contoh Javascript pada dokumen HTML]{Contoh Javascript pada dokumen HTML} 
+		\label{fig:contoh_js}
+		\end{figure}
+		\begin{figure}[h]
+		\centering
+		\resizebox{\textwidth}{!}{
+		\includegraphics{Gambar/hasil-js}
+		}
+		\caption[Hasil contoh Javascript]{Hasil contoh Javascript} 
+		\label{fig:hasil_js}
+		\end{figure}
+\end{enumerate}
 
-HTML merupakan suatu bahasa standar yang digunakan untuk membuat halaman situs\footnote{\url{http://www.merriam-webster.com/dictionary/hypertext markup language}}.
+Selain tiga teknologi dasar yang digunakan untuk membangunan aplikasi di Phonegap, terdapat teknologi lain yaitu:
+\begin{enumerate}
+	\item Jquery merupakan suatu \textit{libary} javascript yang dibangun untuk memanipulasi dokumen HTML.
+	\item AngularJS merupakan suatu \textit{framework} yang ditulis diatas javascript yang digunakan untuk memanipulasi dokumen HTML.
+	\item Onsen UI\footnote{\url{http://onsen.io/}} merupakan suatu \textit{framework} Javascript  dan CSS untuk membangun aplikasi HTML atau Phonegap.
+\end{enumerate}
 
-\subsection{CSS}
-\label{subsec:css}
+\section{CakePHP}
 
-CSS merupakan suatu bahasa yang digunakan untuk menformat tampilan suatu dokumen.
+CakePHP merupakan sebuah \textit{framework} yang digunakan untuk membangun suatu aplikasi \textit{web}. Cakephp mengikuti konsep MVC yang ditulis diatas PHP.
 
-\subsection{Javascript}
-\label{subsec:javascript}
-
-Javascript merupakan bahasa pemograman yang pada umumnya digunakan pada \textit{web browser}.
-
-\section{Hadoop and \textit{Ecosystem}}
-\label{sec:hadoopandecosystem}
-
-\subsection{Hadoop}
-\label{subsec:hadoop}
+\section{Hadoop dan ekosistem}
+\label{sec:hadoopdanekosistem}
 
 Hadoop merupakan sebuah \textit{platform} yang menyediakan pemyimpanan data terdistribusi dan kemampuan komputasi. Kemampuan komputasi pada Hadoop merupakan \textit{distributed master-slave architeture} yang terdiri dari Hadoop Distributed File System (HDFS)\ref{subsec:hdfs} untuk penyimpanan data dan MapReduce \ref{subsec:mapreduce}. Arsitektur Hadoop dapat dilihat pada Gambar \ref{fig:arsitektur_hadoop}\cite{holmes2012hadoop}.
 
@@ -176,10 +224,13 @@ Hadoop merupakan sebuah \textit{platform} yang menyediakan pemyimpanan data terd
 \label{fig:arsitektur_hadoop}
 \end{figure}
 
-\subsection{HDFS}
-\label{subsec:hdfs}
+Beberapa ekosistem yang ada pada \textit{Hadoop} berupa:
 
-HDFS adalah komponen penyimpanan data dari Hadoop yang merupakan sistem penyimpanan data terdistribusi. Arsitektur HDFS dapat dilihat pada Gambar \ref{fig:arsitektur_hdfs}
+\begin{enumerate}
+	\item HDFS adalah komponen penyimpanan data dari Hadoop yang merupakan sistem penyimpanan data terdistribusi. Arsitektur HDFS dapat dilihat pada Gambar \ref{fig:arsitektur_hdfs}
+	\item MapReduce merupakan \textit{batch-based}, komputasi terdistribusi \textit{framework} yang memungkinkan komputasi paralel terhadap data yang cukup besar. MapReduce menyederhanakan pemrosesan paralel oleh abstraksi kerja yang komplek. Dengan abstraksi ini, MapReduce memungkinkan \textit{programmer} untuk berfokus pada kebutuhan bisnis dibandingkan memikirkan sistem distribusinya.
+	\item HBase merupakan \textit{real-time, column-oriented} basis data yang dapat diintergrasi kedalam HDFS melalu MapReduce.
+\end{enumerate}
 
 \begin{figure}
 \centering
@@ -190,57 +241,35 @@ HDFS adalah komponen penyimpanan data dari Hadoop yang merupakan sistem penyimpa
 \label{fig:arsitektur_hdfs}
 \end{figure}
 
-\subsection{MapReduce}
-\label{subsec:mapreduce}
+Selain ekosistem \textit{Hadoop} sendiri, terdapat beberapa teknologi pendukungnya, berupa:
 
-\hspace{0,5cm}MapReduce merupakan \textit{batch-based}, komputasi terdistribusi \textit{framework} yang memungkinkan komputasi paralel terhadap data yang cukup besar. MapReduce menyederhanakan pemrosesan paralel oleh abstraksi kerja yang komplek. Dengan abstraksi ini, MapReduce memungkinkan \textit{programmer} untuk berfokus pada kebutuhan bisnis dibandingkan memikirkan sistem distribusinya.
+\begin{enumerate}
+	\item Trafodion merupakan \textit{open source project} yang disponsor oleh HP. Trafodion juga diinkubasi di HP Labs dan HP-IT yang digunakan untuk mengembangkan SQL-on-Hadoop berskala \textit{enterprise} terhadap data yang besar\footnote{\url{https://wiki.trafodion.org/wiki/index.php/Main\_Page}}. Trafodion digunakan untuk membuat \textit{Hbase} menjadi basis data yang dapat di-\textit{query} menggunakan bahasa SQL.
+	\item SQL(\textit{Structured Query Language}) merupakan suatu bahasa pemograman yang didisain untuk mengelolah data yang terdapat pada \textit{relational database management system}(RDBMS).
+\end{enumerate}
 
-\subsection{HBase}
-\label{subsec:hbase}
-
-HBase merupakan \textit{real-time, column-oriented} basis data yang dapat diintergrasi kedalam HDFS melalu MapReduce.
-
-%Apa itu Hbase?
-
-\subsection{Trafodion}
-\label{subsec:trafodian}
-
-Trafodion merupakan \textit{open source project} yang disponsor oleh HP. Trafodion juga diinkubasi di HP Labs dan HP-IT yang digunakan untuk mengembangkan SQL-on-Hadoop berskala \textit{enterprise} terhadap data yang besar\footnote{\url{https://wiki.trafodion.org/wiki/index.php/Main\_Page}}. 
-
-\section{Webservice and RESTful}
-\label{sec:webserviceansrestful}
-
-Pada sub-bab ini akan dibahas mengenai Webservice dan RESTful.
-
-\subsection{Webservice}
-\label{subsec:webservice}
+\section{Webservice}
+\label{sec:webservice}
 
 Webservice merupakan suatu sistem yang menyediakan fungsi-fungsi dari suatu perangkat lunak diatas internet melalui \textit{web}.
 
-\subsection{RESTful}
-\label{subsec:restful}
-
-\textit{Representational State Transfer}(REST) merupakan gaya arsitektur suatu perangkat lunak yang terdiri dari pedoman dan praktek terbaik untuk membuat suatu \textit{webservice}\ref{subsec:webservice} yang \textit{scalable}\footnote{Fielding, R. T.; Taylor, R. N. (2000). "Principled design of the modern Web architecture". pp. 407\-416. doi:10.1145/337180.337228}
-
-\subsection{HTTP}
-\label{subsec:http}
-
-\textit{Hypertext Transfer Protocol}(HTTP) merupakan suatu protokol aplikasi untuk sistem informasi yang terdistribusi, kolaborasi dan hipermedia.Pada HTTP terdapat beberapa protokol, yakni:
-\begin{itemize}
-	\item \textit{OPTIONS}
-	\item \textit{GET}
-	\item \textit{HEAD}
-	\item \textit{POST}
-	\item \textit{PUT}
-	\item \textit{DELETE}
-	\item \textit{TRACE}
-	\item \textit{CONNECT}
-\end{itemize}
-
-\subsection{URI}
-\label{subsec:uri}
-
-\textit{Uniform Resource Identifier}(URI) merupakan urutan kompak karakter yang mengidentifikasikan sumber daya abstrak dan fisik\cite{rfc3986}.
+Adapun beberapa teknologi yang terkait dengan webservice:
+\begin{enumerate}
+	\item \textit{Representational State Transfer}(REST) merupakan gaya arsitektur suatu perangkat lunak yang terdiri dari pedoman dan praktek terbaik untuk membuat suatu \textit{webservice} yang \textit{scalable}\footnote{Fielding, R. T.; Taylor, R. N. (2000). "Principled design of the modern Web architecture". pp. 407\-416. doi:10.1145/337180.337228}
+	\item \textit{Hypertext Transfer Protocol}(HTTP) merupakan suatu protokol aplikasi untuk sistem informasi yang terdistribusi, kolaborasi dan hipermedia.Pada HTTP terdapat beberapa protokol, yakni:
+	\begin{itemize}
+		\item \textit{OPTIONS}
+		\item \textit{GET}
+		\item \textit{HEAD}
+		\item \textit{POST}
+		\item \textit{PUT}
+		\item \textit{DELETE}
+		\item \textit{TRACE}
+		\item \textit{CONNECT}
+	\end{itemize}
+	\item \textit{Uniform Resource Identifier}(URI) merupakan urutan kompak karakter yang mengidentifikasikan sumber daya abstrak dan fisik\cite{rfc3986}.
+	\item \textit{Javascript Object Notation}(JSON) merupakan suatu teks format yang digunakan untuk serialisasi struktur data\cite{rfc7159}.
+\end{enumerate}
 
 \section{Google Open Authentication (OAuth)}
 \label{sec:googleopenauthentication}
