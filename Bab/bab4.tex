@@ -177,14 +177,17 @@
 
 \hspace{0,5cm}Pada webservice ini, terdapat dua peristiwa utama yaitu \textit{request} dan \textit{response}.Request akan memiliki beberapa parameter sesuai fungsi yang digunakan. Response yang dikembalikan dari \textit{webservice} berupan JSON dan memiliki format sesuai dengan Gambar~\ref{fig:format_response_webservice} dimana terdapat atribut utama yaitu \textit{response} yang membungkus tiga atribut lainnya yaitu status yang merupakan kode status dari \textit{request}, message yang merupakan keterangan status dan data yang merupakan atribut yang membungkus nilai-nilai yang dikembalikan.
 
-\begin{figure}
-\centering
-\resizebox{\textwidth}{!}{
-\includegraphics{Gambar/format_response_webservice}
+\begin{lstlisting} [caption= Format \textit{response}  webservice]
+{
+	"response":{
+		"status": (kode status),
+		"message": (keterangan status),
+		"data": {
+			...
+		}
+	}
 }
-\caption[Format \textit{response webservice}]{Format \textit{response webservice}} 
-\label{fig:format_response_webservice}
-\end{figure}
+\end{lstlisting}
 
 \textit{Request} dan \textit{response} pada \textit{webservice} untuk setiap fungsi akan dijelaskan sebagai berikut:
 \begin{enumerate}

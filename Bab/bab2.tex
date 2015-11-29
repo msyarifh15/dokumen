@@ -147,31 +147,34 @@ Phonegap menggunakan HTML\ref{subsec:html} dan CSS\ref{subsec:css} untuk me-\tex
 Teknologi dasar yang digunakan untuk membangun aplikasi menggunakan Phonegap:
 \begin{enumerate}
 	\item HTML merupakan suatu bahasa standar yang digunakan untuk membuat halaman situs\footnote{\url{http://www.merriam-webster.com/dictionary/hypertext markup language}}. Contoh penggunaan dapat dilihat pada Gambar~\ref{fig:contoh_html} dan tampilan hasil dapat dilihat pada Gambar~\ref{fig:hasil_contoh_html}
-		\begin{figure}[h]
-		\centering
-		\resizebox{\textwidth}{!}{
-		\includegraphics{Gambar/contoh-html}
-		}
-		\caption[Contoh HTML]{Contoh HTML} 
-		\label{fig:contoh_html}
-		\end{figure}
-		\begin{figure}[h]
-		\centering
-		\resizebox{\textwidth}{!}{
-		\includegraphics{Gambar/hasil-contoh-html}
-		}
-		\caption[Hasil contoh HTML]{Hasil contoh HTML} 
-		\label{fig:hasil_contoh_html}
-		\end{figure}
+	
+	\begin{lstlisting} [caption= Hasil contoh HTML]
+		<html>
+			<head>
+			</head>
+			<body>
+				<h1>Halo dunia!</h1>
+			</body>
+		</html>
+	\end{lstlisting}
+		
 	\item CSS merupakan suatu bahasa yang digunakan untuk menformat tampilan suatu dokumen. Contoh penggunaan dapat dilihat pada Gambar~\ref{fig:contoh_html_css} dan tampilan hasil dapat dilihat pada Gambar~\ref{fig:hasil_contoh_html_css}
-		\begin{figure}[h]
-		\centering
-		\resizebox{\textwidth}{!}{
-		\includegraphics{Gambar/contoh-html-css}
-		}
-		\caption[Contoh CSS pada dokumen HTML]{Contoh CSS pada dokumen HTML} 
-		\label{fig:contoh_html_css}
-		\end{figure}
+	
+	\begin{lstlisting} [caption= Contoh CSS pada dokumen HTML]
+		<html>
+			<head>
+				<style>
+					.coret{
+						text-decoration:line-through;
+					}
+				</style>
+			</head>
+			<body>
+				<h1 class="coret">Halo dunia!</h1>
+			</body>
+		</html>
+	\end{lstlisting}
+		
 		\begin{figure}[h]
 		\centering
 		\resizebox{\textwidth}{!}{
@@ -180,23 +183,27 @@ Teknologi dasar yang digunakan untuk membangun aplikasi menggunakan Phonegap:
 		\caption[Hasil contoh CSS pada dokumen HTML]{Hasil contoh CSS pada dokumen HTML} 
 		\label{fig:hasil_contoh_html_css}
 		\end{figure}
+		
 	\item Javascript merupakan bahasa pemograman yang pada umumnya digunakan pada \textit{web browser}. Contoh penggunaan dapat dilihat pada Gambar~\ref{fig:contoh_js} dan tampilan hasil dapat dilihat pada Gambar~\ref{fig:hasil_js}
-		\begin{figure}[h]
-		\centering
-		\resizebox{\textwidth}{!}{
-		\includegraphics{Gambar/contoh-js}
-		}
-		\caption[Contoh Javascript pada dokumen HTML]{Contoh Javascript pada dokumen HTML} 
-		\label{fig:contoh_js}
-		\end{figure}
-		\begin{figure}[h]
-		\centering
-		\resizebox{\textwidth}{!}{
-		\includegraphics{Gambar/hasil-js}
-		}
-		\caption[Hasil contoh Javascript]{Hasil contoh Javascript} 
-		\label{fig:hasil_js}
-		\end{figure}
+	
+	\begin{lstlisting} [caption= Contoh Javascript pada dokumen HTML]
+		<html>
+			<head>
+				<style>
+					.coret{
+						text-decoration:line-through;
+					}
+				</style>
+				<script>
+					alert("Apa kabar?");
+				</script>
+			</head>
+			<body>
+				<h1 class="coret">Halo dunia!</h1>
+			</body>
+		</html>
+	\end{lstlisting}
+	
 \end{enumerate}
 
 Selain tiga teknologi dasar yang digunakan untuk membangunan aplikasi di Phonegap, terdapat teknologi lain yaitu:
