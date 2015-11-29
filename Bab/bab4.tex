@@ -149,7 +149,7 @@
 \begin{figure}
 \centering
 \resizebox{\textwidth}{!}{
-\includegraphics[scale=0.01]{Gambar/design-web/login}
+\includegraphics[scale=0.01]{Gambar/mockup-admin/login}
 }
 \caption[Tampilan login]{Tampilan login} 
 \label{fig:design_web_login}
@@ -158,7 +158,7 @@
 \begin{figure}
 \centering
 \resizebox{\textwidth}{!}{
-\includegraphics[scale=0.01]{Gambar/design-web/index_kategori}
+\includegraphics[scale=0.01]{Gambar/mockup-admin/kategori}
 }
 \caption[Tampilan halaman kategori]{Tampilan halaman kategori} 
 \label{fig:design_web_index_kategori}
@@ -167,17 +167,44 @@
 \begin{figure}
 \centering
 \resizebox{\textwidth}{!}{
-\includegraphics[scale=0.01]{Gambar/design-web/index_rumah_tangga}
+\includegraphics[scale=0.01]{Gambar/mockup-admin/rumah_tangga}
 }
 \caption[Tampilan halaman rumah tangga]{Tampilan halaman rumah tangga} 
 \label{fig:design_web_index_rumah_tangga}
 \end{figure}
 
+\begin{figure}
+\centering
+\resizebox{\textwidth}{!}{
+\includegraphics[scale=0.01]{Gambar/mockup-admin/dashboard}
+}
+\caption[Tampilan halaman dashboard]{Tampilan halaman dashboard} 
+\label{fig:design_web_dashboard_rumah_tangga}
+\end{figure}
+
+\begin{figure}
+\centering
+\resizebox{\textwidth}{!}{
+\includegraphics[scale=0.01]{Gambar/mockup-admin/anggota}
+}
+\caption[Tampilan halaman anggota]{Tampilan halaman anggota} 
+\label{fig:design_web_anggota_rumah_tangga}
+\end{figure}
+
+\begin{figure}
+\centering
+\resizebox{\textwidth}{!}{
+\includegraphics[scale=0.01]{Gambar/mockup-admin/laporan}
+}
+\caption[Tampilan halaman laporan]{Tampilan halaman laporan} 
+\label{fig:design_web_laporan_rumah_tangga}
+\end{figure}
+
 \section{Disain \textit{Webservice}}
 
-\hspace{0,5cm}Pada webservice ini, terdapat dua peristiwa utama yaitu \textit{request} dan \textit{response}.Request akan memiliki beberapa parameter sesuai fungsi yang digunakan. Response yang dikembalikan dari \textit{webservice} berupan JSON dan memiliki format sesuai dengan Gambar~\ref{fig:format_response_webservice} dimana terdapat atribut utama yaitu \textit{response} yang membungkus tiga atribut lainnya yaitu status yang merupakan kode status dari \textit{request}, message yang merupakan keterangan status dan data yang merupakan atribut yang membungkus nilai-nilai yang dikembalikan.
+\hspace{0,5cm}Pada webservice ini, terdapat dua peristiwa utama yaitu \textit{request} dan \textit{response}.Request akan memiliki beberapa parameter sesuai fungsi yang digunakan. Response yang dikembalikan dari \textit{webservice} berupan JSON dan memiliki format sesuai dengan Listing~\ref{lst:json_response} dimana terdapat atribut utama yaitu \textit{response} yang membungkus tiga atribut lainnya yaitu status yang merupakan kode status dari \textit{request}, message yang merupakan keterangan status dan data yang merupakan atribut yang membungkus nilai-nilai yang dikembalikan.
 
-\begin{lstlisting} [caption= Format \textit{response}  webservice]
+\begin{lstlisting} [caption= Format \textit{response}  webservice,label={lst:json_response}]
 {
 	"response":{
 		"status": (kode status),
@@ -269,7 +296,7 @@
 					\label{tab:request_laporan}
 				\end{table}
 			\item Response pada Tabel~\ref{tab:response_laporan}
-				\begin{table}[h]
+				\begin{table}[!h]
 					\centering
 						\begin{tabular}{ |p{4cm}|p{10cm}|}
 							\hline
@@ -289,7 +316,7 @@
 
 \hspace{0,5cm}Pada sub-bab ini akan digambarkan disain basis data berupa \textit{Entity Relational Diagram} untuk aplikasi pembukuan rumah tangga dan \textit{website} pengolahan aplikasi pada Gambar~\ref{fig:er_diagram_prt}.
 
-\begin{figure}[h]
+\begin{figure}[h!]
 \centering
 \resizebox{\textwidth}{!}{
 \includegraphics[scale=0.01]{Gambar/er-diagram}
