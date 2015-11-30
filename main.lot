@@ -3,12 +3,19 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \contentsline {table}{\numberline {3.1}{\ignorespaces Skenario Mendaftarkan Rumah Tangga}}{17}{table.3.1}
+\contentsline {table}{\numberline {3.2}{\ignorespaces Skenario Mendaftarkan Anggota Rumah Tangga}}{17}{table.3.2}
+\contentsline {table}{\numberline {3.3}{\ignorespaces Skenario Mengisi Data Rumah Tangga}}{18}{table.3.3}
+\contentsline {table}{\numberline {3.4}{\ignorespaces Skenario Mengisi Kategori Transaksi}}{18}{table.3.4}
+\contentsline {table}{\numberline {3.5}{\ignorespaces Skenario Menambahkan Alokasi Keuangan Rumah Tangga}}{18}{table.3.5}
+\contentsline {table}{\numberline {3.6}{\ignorespaces Skenario Melihat Laporan Keuangan Rumah Tangga}}{19}{table.3.6}
+\contentsline {table}{\numberline {3.7}{\ignorespaces Skenario Membuat Transaksi Keuangan Rumah Tangga}}{19}{table.3.7}
+\contentsline {table}{\numberline {3.8}{\ignorespaces Skenario Membuat Transaksi Keuangan Rumah Tangga}}{19}{table.3.8}
 \addvspace {10\p@ }
-\contentsline {table}{\numberline {4.1}{\ignorespaces \textit {Request login}}}{26}{table.4.1}
-\contentsline {table}{\numberline {4.2}{\ignorespaces \textit {Response login}}}{26}{table.4.2}
-\contentsline {table}{\numberline {4.3}{\ignorespaces \textit {Request} penambahan transaksi}}{26}{table.4.3}
-\contentsline {table}{\numberline {4.4}{\ignorespaces \textit {Request} penambahan transaksi}}{27}{table.4.4}
-\contentsline {table}{\numberline {4.5}{\ignorespaces \textit {Request} penyiapan data laporan}}{27}{table.4.5}
-\contentsline {table}{\numberline {4.6}{\ignorespaces \textit {Response} penyiapan data laporan}}{27}{table.4.6}
+\contentsline {table}{\numberline {4.1}{\ignorespaces \textit {Request login}}}{28}{table.4.1}
+\contentsline {table}{\numberline {4.2}{\ignorespaces \textit {Response login}}}{28}{table.4.2}
+\contentsline {table}{\numberline {4.3}{\ignorespaces \textit {Request} penambahan transaksi}}{28}{table.4.3}
+\contentsline {table}{\numberline {4.4}{\ignorespaces \textit {Request} penambahan transaksi}}{29}{table.4.4}
+\contentsline {table}{\numberline {4.5}{\ignorespaces \textit {Request} penyiapan data laporan}}{29}{table.4.5}
+\contentsline {table}{\numberline {4.6}{\ignorespaces \textit {Response} penyiapan data laporan}}{29}{table.4.6}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
